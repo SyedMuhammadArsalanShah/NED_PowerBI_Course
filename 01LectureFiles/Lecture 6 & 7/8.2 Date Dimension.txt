@@ -1,0 +1,8 @@
+DateTable = ADDCOLUMNS(CALENDAR(DATE(2018,1,1),DATE(2018,12,31)),
+"MonthNo", MONTH([Date]),
+"MonthName", FORMAT([Date],"MMMM"),
+"Quarter", QUARTER([Date]),
+"Year", YEAR([Date]),
+"Day", DAY([Date]),
+"WeekdayNum", WEEKDAY([Date]),
+"WeekdayName",FORMAT([Date],"DDDD"))

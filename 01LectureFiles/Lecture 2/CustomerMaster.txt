@@ -1,0 +1,664 @@
+﻿CustomerID,CustomerName,CustomerCategoryName,PrimaryContact,PhoneNumber,FaxNumber,WebsiteURL,DeliveryMethod,CityName
+1,Tailspin Toys (Head Office),Novelty Shop,Waldemar Fisar,(308) 555-0100,(308) 555-0101,http://www.tailspintoys.com,Delivery Van,Lisco
+2,"Tailspin Toys (Sylvanite, MT)",Novelty Shop,Lorena Cindric,(406) 555-0100,(406) 555-0101,http://www.tailspintoys.com/Sylvanite,Delivery Van,Sylvanite
+3,"Tailspin Toys (Peeples Valley, AZ)",Novelty Shop,Bhaargav Rambhatla,(480) 555-0100,(480) 555-0101,http://www.tailspintoys.com/PeeplesValley,Delivery Van,Peeples Valley
+4,"Tailspin Toys (Medicine Lodge, KS)",Novelty Shop,Daniel Roman,(316) 555-0100,(316) 555-0101,http://www.tailspintoys.com/MedicineLodge,Delivery Van,Medicine Lodge
+5,"Tailspin Toys (Gasport, NY)",Novelty Shop,Johanna Huiting,(212) 555-0100,(212) 555-0101,http://www.tailspintoys.com/Gasport,Delivery Van,Gasport
+6,"Tailspin Toys (Jessie, ND)",Novelty Shop,Biswajeet Thakur,(701) 555-0100,(701) 555-0101,http://www.tailspintoys.com/Jessie,Delivery Van,Jessie
+7,"Tailspin Toys (Frankewing, TN)",Novelty Shop,Kalidas Nadar,(423) 555-0100,(423) 555-0101,http://www.tailspintoys.com/Frankewing,Delivery Van,Frankewing
+8,"Tailspin Toys (Bow Mar, CO)",Novelty Shop,Kanti Kotadia,(303) 555-0100,(303) 555-0101,http://www.tailspintoys.com/BowMar,Delivery Van,Bow Mar
+9,"Tailspin Toys (Netcong, NJ)",Novelty Shop,Sointu Aalto,(201) 555-0100,(201) 555-0101,http://www.tailspintoys.com/Netcong,Delivery Van,Netcong
+10,"Tailspin Toys (Wimbledon, ND)",Novelty Shop,Siddhartha Parkar,(701) 555-0100,(701) 555-0101,http://www.tailspintoys.com/Wimbledon,Delivery Van,Wimbledon
+11,"Tailspin Toys (Devault, PA)",Novelty Shop,Elnaz Javan,(215) 555-0100,(215) 555-0101,http://www.tailspintoys.com/Devault,Delivery Van,Devault
+12,"Tailspin Toys (Biscay, MN)",Novelty Shop,Heloisa Fernandes,(218) 555-0100,(218) 555-0101,http://www.tailspintoys.com/Biscay,Delivery Van,Biscay
+13,"Tailspin Toys (Stonefort, IL)",Novelty Shop,Razeena Hosseini,(217) 555-0100,(217) 555-0101,http://www.tailspintoys.com/Stonefort,Delivery Van,Stonefort
+14,"Tailspin Toys (Long Meadow, MD)",Novelty Shop,Tereza Valentova,(240) 555-0100,(240) 555-0101,http://www.tailspintoys.com/LongMeadow,Delivery Van,Long Meadow
+15,"Tailspin Toys (Batson, TX)",Novelty Shop,Filips Jaunzems,(210) 555-0100,(210) 555-0101,http://www.tailspintoys.com/Batson,Delivery Van,Batson
+16,"Tailspin Toys (Coney Island, MO)",Novelty Shop,Nitin Matondkar,(314) 555-0100,(314) 555-0101,http://www.tailspintoys.com/ConeyIsland,Delivery Van,Coney Island
+17,"Tailspin Toys (East Fultonham, OH)",Novelty Shop,Adam Kubat,(216) 555-0100,(216) 555-0101,http://www.tailspintoys.com/EastFultonham,Delivery Van,East Fultonham
+18,"Tailspin Toys (Goffstown, NH)",Novelty Shop,Isabelle Vodlan,(603) 555-0100,(603) 555-0101,http://www.tailspintoys.com/Goffstown,Delivery Van,Goffstown
+19,"Tailspin Toys (Lemeta, AK)",Novelty Shop,Mithun Bhattacharya,(907) 555-0100,(907) 555-0101,http://www.tailspintoys.com/Lemeta,Delivery Van,Lemeta
+20,"Tailspin Toys (College Place, WA)",Novelty Shop,Nghi Hua,(206) 555-0100,(206) 555-0101,http://www.tailspintoys.com/CollegePlace,Delivery Van,College Place
+21,"Tailspin Toys (Tresckow, PA)",Novelty Shop,Duleep Raju,(215) 555-0100,(215) 555-0101,http://www.tailspintoys.com/Tresckow,Delivery Van,Tresckow
+22,"Tailspin Toys (Ward Ridge, FL)",Novelty Shop,Cristina Longo,(239) 555-0100,(239) 555-0101,http://www.tailspintoys.com/WardRidge,Delivery Van,Ward Ridge
+23,"Tailspin Toys (Ikatan, AK)",Novelty Shop,Hang Tang,(907) 555-0100,(907) 555-0101,http://www.tailspintoys.com/Ikatan,Delivery Van,Ikatan
+24,"Tailspin Toys (Dundarrach, NC)",Novelty Shop,Intira Mookjai,(252) 555-0100,(252) 555-0101,http://www.tailspintoys.com/Dundarrach,Delivery Van,Dundarrach
+25,"Tailspin Toys (Avenal, CA)",Novelty Shop,Sulabha Khalsa,(209) 555-0100,(209) 555-0101,http://www.tailspintoys.com/Avenal,Delivery Van,Avenal
+26,"Tailspin Toys (Hedrick, IA)",Novelty Shop,Dhanishta Majji,(319) 555-0100,(319) 555-0101,http://www.tailspintoys.com/Hedrick,Delivery Van,Hedrick
+27,"Tailspin Toys (Bowlus, MN)",Novelty Shop,Paula Gonzales,(218) 555-0100,(218) 555-0101,http://www.tailspintoys.com/Bowlus,Delivery Van,Bowlus
+28,"Tailspin Toys (North Ridge, NY)",Novelty Shop,Tatjana Utjesenovic,(212) 555-0100,(212) 555-0101,http://www.tailspintoys.com/NorthRidge,Delivery Van,North Ridge
+29,"Tailspin Toys (Eulaton, AL)",Novelty Shop,Karel Hanak,(205) 555-0100,(205) 555-0101,http://www.tailspintoys.com/Eulaton,Delivery Van,Eulaton
+30,"Tailspin Toys (Koontzville, WA)",Novelty Shop,Odessa Schneider,(206) 555-0100,(206) 555-0101,http://www.tailspintoys.com/Koontzville,Delivery Van,Koontzville
+31,"Tailspin Toys (Lake Stevens, WA)",Novelty Shop,Kimberly Pace,(206) 555-0100,(206) 555-0101,http://www.tailspintoys.com/LakeStevens,Delivery Van,Lake Stevens
+32,"Tailspin Toys (Maypearl, TX)",Novelty Shop,Nikolajs Kalejs,(210) 555-0100,(210) 555-0101,http://www.tailspintoys.com/Maypearl,Delivery Van,Maypearl
+33,"Tailspin Toys (Boyden Arbor, SC)",Novelty Shop,Haasini Rai,(803) 555-0100,(803) 555-0101,http://www.tailspintoys.com/BoydenArbor,Delivery Van,Boyden Arbor
+34,"Tailspin Toys (Dallardsville, TX)",Novelty Shop,Anjali Asthana,(210) 555-0100,(210) 555-0101,http://www.tailspintoys.com/Dallardsville,Delivery Van,Dallardsville
+35,"Tailspin Toys (Slanesville, WV)",Novelty Shop,Shah Omidi,(304) 555-0100,(304) 555-0101,http://www.tailspintoys.com/Slanesville,Delivery Van,Slanesville
+36,"Tailspin Toys (Ekron, KY)",Novelty Shop,Ferhat Celik,(270) 555-0100,(270) 555-0101,http://www.tailspintoys.com/Ekron,Delivery Van,Ekron
+37,"Tailspin Toys (Kerby, OR)",Novelty Shop,Dayarama Kamei,(458) 555-0100,(458) 555-0101,http://www.tailspintoys.com/Kerby,Delivery Van,Kerby
+38,"Tailspin Toys (Airport Drive, MO)",Novelty Shop,Nils Kalnins,(314) 555-0100,(314) 555-0101,http://www.tailspintoys.com/AirportDrive,Delivery Van,Airport Drive
+39,"Tailspin Toys (Diablock, KY)",Novelty Shop,Ashish Acharya,(270) 555-0100,(270) 555-0101,http://www.tailspintoys.com/Diablock,Delivery Van,Diablock
+40,"Tailspin Toys (Impact, TX)",Novelty Shop,Alena Prikrylova,(210) 555-0100,(210) 555-0101,http://www.tailspintoys.com/Impact,Delivery Van,Impact
+41,"Tailspin Toys (Olivette, MO)",Novelty Shop,Lana Rozej,(314) 555-0100,(314) 555-0101,http://www.tailspintoys.com/Olivette,Delivery Van,Olivette
+42,"Tailspin Toys (Arietta, NY)",Novelty Shop,Chandrakanta Raut,(212) 555-0100,(212) 555-0101,http://www.tailspintoys.com/Arietta,Delivery Van,Arietta
+43,"Tailspin Toys (Upper Preston, WA)",Novelty Shop,Ganapati Gadiyaram,(206) 555-0100,(206) 555-0101,http://www.tailspintoys.com/UpperPreston,Delivery Van,Upper Preston
+44,"Tailspin Toys (Amanda Park, WA)",Novelty Shop,Adrijana Blagojevic,(206) 555-0100,(206) 555-0101,http://www.tailspintoys.com/AmandaPark,Delivery Van,Amanda Park
+45,"Tailspin Toys (Severna Park, MD)",Novelty Shop,Lap Dinh,(240) 555-0100,(240) 555-0101,http://www.tailspintoys.com/SevernaPark,Delivery Van,Severna Park
+46,"Tailspin Toys (Jemison, AL)",Novelty Shop,Didem ozCelik,(205) 555-0100,(205) 555-0101,http://www.tailspintoys.com/Jemison,Delivery Van,Jemison
+47,"Tailspin Toys (Lake Hughes, CA)",Novelty Shop,Serhat Akbulut,(209) 555-0100,(209) 555-0101,http://www.tailspintoys.com/LakeHughes,Delivery Van,Lake Hughes
+48,"Tailspin Toys (Trentwood, WA)",Novelty Shop,Daniela Barrios,(206) 555-0100,(206) 555-0101,http://www.tailspintoys.com/Trentwood,Delivery Van,Trentwood
+49,"Tailspin Toys (Muir, MI)",Novelty Shop,Julia Slobodova,(231) 555-0100,(231) 555-0101,http://www.tailspintoys.com/Muir,Delivery Van,Muir
+50,"Tailspin Toys (Hambleton, WV)",Novelty Shop,Marcela Jankova,(304) 555-0100,(304) 555-0101,http://www.tailspintoys.com/Hambleton,Delivery Van,Hambleton
+51,"Tailspin Toys (Imlaystown, NJ)",Novelty Shop,Dipali Sonkar,(201) 555-0100,(201) 555-0101,http://www.tailspintoys.com/Imlaystown,Delivery Van,Imlaystown
+52,"Tailspin Toys (Idria, CA)",Novelty Shop,Bansidhar Mitra,(209) 555-0100,(209) 555-0101,http://www.tailspintoys.com/Idria,Delivery Van,Idria
+53,"Tailspin Toys (Nanafalia, AL)",Novelty Shop,Gunnar Persson,(205) 555-0100,(205) 555-0101,http://www.tailspintoys.com/Nanafalia,Delivery Van,Nanafalia
+54,"Tailspin Toys (Railroad, PA)",Novelty Shop,Vitezslav Rehak,(215) 555-0100,(215) 555-0101,http://www.tailspintoys.com/Railroad,Delivery Van,Railroad
+55,"Tailspin Toys (Gum Branch, GA)",Novelty Shop,Bharat Sikdar,(229) 555-0100,(229) 555-0101,http://www.tailspintoys.com/GumBranch,Delivery Van,Gum Branch
+56,"Tailspin Toys (Royal City, WA)",Novelty Shop,Juan Bezanson,(206) 555-0100,(206) 555-0101,http://www.tailspintoys.com/RoyalCity,Delivery Van,Royal City
+57,"Tailspin Toys (Lakemore, OH)",Novelty Shop,Aile Mae,(216) 555-0100,(216) 555-0101,http://www.tailspintoys.com/Lakemore,Delivery Van,Lakemore
+58,"Tailspin Toys (Mappsburg, VA)",Novelty Shop,Pratap Varghese,(276) 555-0100,(276) 555-0101,http://www.tailspintoys.com/Mappsburg,Delivery Van,Mappsburg
+59,"Tailspin Toys (Edgartown, MA)",Novelty Shop,Margita Kopecka,(339) 555-0100,(339) 555-0101,http://www.tailspintoys.com/Edgartown,Delivery Van,Edgartown
+60,"Tailspin Toys (East Dailey, WV)",Novelty Shop,Lekha Mitra,(304) 555-0100,(304) 555-0101,http://www.tailspintoys.com/EastDailey,Delivery Van,East Dailey
+61,"Tailspin Toys (Fairfield Glade, TN)",Novelty Shop,Abhoy PrabhupÄda,(423) 555-0100,(423) 555-0101,http://www.tailspintoys.com/FairfieldGlade,Delivery Van,Fairfield Glade
+62,"Tailspin Toys (Great Neck Estates, NY)",Novelty Shop,Alida Caune,(212) 555-0100,(212) 555-0101,http://www.tailspintoys.com/GreatNeckEstates,Delivery Van,Great Neck Estates
+63,"Tailspin Toys (Stallion Springs, CA)",Novelty Shop,Agnes Szolosy,(209) 555-0100,(209) 555-0101,http://www.tailspintoys.com/StallionSprings,Delivery Van,Stallion Springs
+64,"Tailspin Toys (Hodgdon, ME)",Novelty Shop,Rohana Kaskar,(207) 555-0100,(207) 555-0101,http://www.tailspintoys.com/Hodgdon,Delivery Van,Hodgdon
+65,"Tailspin Toys (North Cowden, TX)",Novelty Shop,Hanuman Dubey,(210) 555-0100,(210) 555-0101,http://www.tailspintoys.com/NorthCowden,Delivery Van,North Cowden
+66,"Tailspin Toys (Madaket, MA)",Novelty Shop,Bao Dao,(339) 555-0100,(339) 555-0101,http://www.tailspintoys.com/Madaket,Delivery Van,Madaket
+67,"Tailspin Toys (Sentinel Butte, ND)",Novelty Shop,Preyakshna Aluri,(701) 555-0100,(701) 555-0101,http://www.tailspintoys.com/SentinelButte,Delivery Van,Sentinel Butte
+68,"Tailspin Toys (Gardere, LA)",Novelty Shop,Valentina Conti,(225) 555-0100,(225) 555-0101,http://www.tailspintoys.com/Gardere,Delivery Van,Gardere
+69,"Tailspin Toys (Lytle Creek, CA)",Novelty Shop,Theodore Saucier,(209) 555-0100,(209) 555-0101,http://www.tailspintoys.com/LytleCreek,Delivery Van,Lytle Creek
+70,"Tailspin Toys (New Baden, IL)",Novelty Shop,Mariana Fierro,(217) 555-0100,(217) 555-0101,http://www.tailspintoys.com/NewBaden,Delivery Van,New Baden
+71,"Tailspin Toys (Good Hart, MI)",Novelty Shop,Afshin Djalili,(231) 555-0100,(231) 555-0101,http://www.tailspintoys.com/GoodHart,Delivery Van,Good Hart
+72,"Tailspin Toys (Cortaro, AZ)",Novelty Shop,Bianh Phan,(480) 555-0100,(480) 555-0101,http://www.tailspintoys.com/Cortaro,Delivery Van,Cortaro
+73,"Tailspin Toys (Cokato, MN)",Novelty Shop,Koknesis Vitols,(218) 555-0100,(218) 555-0101,http://www.tailspintoys.com/Cokato,Delivery Van,Cokato
+74,"Tailspin Toys (Indios, PR)",Novelty Shop,Roxane Rastgu,(787) 555-0100,(787) 555-0101,http://www.tailspintoys.com/Indios,Delivery Van,Indios
+75,"Tailspin Toys (Windsor Locks, CT)",Novelty Shop,Vlasta Srbova,(203) 555-0100,(203) 555-0101,http://www.tailspintoys.com/WindsorLocks,Delivery Van,Windsor Locks
+76,"Tailspin Toys (Yewed, OK)",Novelty Shop,Lata Babu,(405) 555-0100,(405) 555-0101,http://www.tailspintoys.com/Yewed,Delivery Van,Yewed
+77,"Tailspin Toys (Hahira, GA)",Novelty Shop,Airi Vassiljev,(229) 555-0100,(229) 555-0101,http://www.tailspintoys.com/Hahira,Delivery Van,Hahira
+78,"Tailspin Toys (Sekiu, WA)",Novelty Shop,Duleep Walia,(206) 555-0100,(206) 555-0101,http://www.tailspintoys.com/Sekiu,Delivery Van,Sekiu
+79,"Tailspin Toys (Page City, KS)",Novelty Shop,Matyas Macek,(316) 555-0100,(316) 555-0101,http://www.tailspintoys.com/PageCity,Delivery Van,Page City
+80,"Tailspin Toys (Valdese, NC)",Novelty Shop,Bharat Ankitham,(252) 555-0100,(252) 555-0101,http://www.tailspintoys.com/Valdese,Delivery Van,Valdese
+81,"Tailspin Toys (Big Moose, NY)",Novelty Shop,Vera Kubatova,(212) 555-0100,(212) 555-0101,http://www.tailspintoys.com/BigMoose,Delivery Van,Big Moose
+82,"Tailspin Toys (La Cueva, NM)",Novelty Shop,Rakesh Nishad,(505) 555-0100,(505) 555-0101,http://www.tailspintoys.com/LaCueva,Delivery Van,La Cueva
+83,"Tailspin Toys (Absecon, NJ)",Novelty Shop,Sang Tran,(201) 555-0100,(201) 555-0101,http://www.tailspintoys.com/Absecon,Delivery Van,Absecon
+84,"Tailspin Toys (Aceitunas, PR)",Novelty Shop,Eekalabya Bose,(787) 555-0100,(787) 555-0101,http://www.tailspintoys.com/Aceitunas,Delivery Van,Aceitunas
+85,"Tailspin Toys (Andrix, CO)",Novelty Shop,Tommy Kilpi,(303) 555-0100,(303) 555-0101,http://www.tailspintoys.com/Andrix,Delivery Van,Andrix
+86,"Tailspin Toys (New Lexington, OH)",Novelty Shop,Andrea Ricci,(216) 555-0100,(216) 555-0101,http://www.tailspintoys.com/NewLexington,Delivery Van,New Lexington
+87,"Tailspin Toys (Sauquoit, NY)",Novelty Shop,Isabell  Duperre,(212) 555-0100,(212) 555-0101,http://www.tailspintoys.com/Sauquoit,Delivery Van,Sauquoit
+88,"Tailspin Toys (Dracut, MA)",Novelty Shop,Amarendra Ankitham,(339) 555-0100,(339) 555-0101,http://www.tailspintoys.com/Dracut,Delivery Van,Dracut
+89,"Tailspin Toys (Victory Gardens, NJ)",Novelty Shop,Aakarsha Nookala,(201) 555-0100,(201) 555-0101,http://www.tailspintoys.com/VictoryGardens,Delivery Van,Victory Gardens
+90,"Tailspin Toys (Tolna, ND)",Novelty Shop,Stanislav Sedlar,(701) 555-0100,(701) 555-0101,http://www.tailspintoys.com/Tolna,Delivery Van,Tolna
+91,"Tailspin Toys (Alstead, NH)",Novelty Shop,GokCe Karaca,(603) 555-0100,(603) 555-0101,http://www.tailspintoys.com/Alstead,Delivery Van,Alstead
+92,"Tailspin Toys (Sans Souci, SC)",Novelty Shop,Coralie Emond,(803) 555-0100,(803) 555-0101,http://www.tailspintoys.com/SansSouci,Delivery Van,Sans Souci
+93,"Tailspin Toys (Clewiston, FL)",Novelty Shop,Karina Celmina,(239) 555-0100,(239) 555-0101,http://www.tailspintoys.com/Clewiston,Delivery Van,Clewiston
+94,"Tailspin Toys (Cheyenne Wells, CO)",Novelty Shop,Teresa Pisani,(303) 555-0100,(303) 555-0101,http://www.tailspintoys.com/CheyenneWells,Delivery Van,Cheyenne Wells
+95,"Tailspin Toys (Lavon, TX)",Novelty Shop,Alba Ponce,(210) 555-0100,(210) 555-0101,http://www.tailspintoys.com/Lavon,Delivery Van,Lavon
+96,"Tailspin Toys (South La Paloma, TX)",Novelty Shop,Piper Leigh,(210) 555-0100,(210) 555-0101,http://www.tailspintoys.com/SouthLaPaloma,Delivery Van,South La Paloma
+97,"Tailspin Toys (Manchester Center, VT)",Novelty Shop,Karie Seymour,(802) 555-0100,(802) 555-0101,http://www.tailspintoys.com/ManchesterCenter,Delivery Van,Manchester Center
+98,"Tailspin Toys (El Centro, CA)",Novelty Shop,Timea Peto,(209) 555-0100,(209) 555-0101,http://www.tailspintoys.com/ElCentro,Delivery Van,El Centro
+99,"Tailspin Toys (Guin, AL)",Novelty Shop,Victoria Ene,(205) 555-0100,(205) 555-0101,http://www.tailspintoys.com/Guin,Delivery Van,Guin
+100,"Tailspin Toys (Tunnelhill, PA)",Novelty Shop,Bhavani Bhowmick,(215) 555-0100,(215) 555-0101,http://www.tailspintoys.com/Tunnelhill,Delivery Van,Tunnelhill
+101,"Tailspin Toys (Cundiyo, NM)",Novelty Shop,Yasmine Berggren,(505) 555-0100,(505) 555-0101,http://www.tailspintoys.com/Cundiyo,Delivery Van,Cundiyo
+102,"Tailspin Toys (Fieldbrook, CA)",Novelty Shop,Tea Koppel,(209) 555-0100,(209) 555-0101,http://www.tailspintoys.com/Fieldbrook,Delivery Van,Fieldbrook
+103,"Tailspin Toys (Kalvesta, KS)",Novelty Shop,Naseem Radan,(316) 555-0100,(316) 555-0101,http://www.tailspintoys.com/Kalvesta,Delivery Van,Kalvesta
+104,"Tailspin Toys (Wallagrass, ME)",Novelty Shop,Laboni Deb,(207) 555-0100,(207) 555-0101,http://www.tailspintoys.com/Wallagrass,Delivery Van,Wallagrass
+105,"Tailspin Toys (Tomnolen, MS)",Novelty Shop,Sung-Hwan Hwang,(228) 555-0100,(228) 555-0101,http://www.tailspintoys.com/Tomnolen,Delivery Van,Tomnolen
+106,"Tailspin Toys (Tumacacori, AZ)",Novelty Shop,Shiva Pipalia,(480) 555-0100,(480) 555-0101,http://www.tailspintoys.com/Tumacacori,Delivery Van,Tumacacori
+107,"Tailspin Toys (Glen Avon, CA)",Novelty Shop,Karie Mercier,(209) 555-0100,(209) 555-0101,http://www.tailspintoys.com/GlenAvon,Delivery Van,Glen Avon
+108,"Tailspin Toys (Bernie, MO)",Novelty Shop,Bhanu Thota,(314) 555-0100,(314) 555-0101,http://www.tailspintoys.com/Bernie,Delivery Van,Bernie
+109,"Tailspin Toys (South Laguna, CA)",Novelty Shop,Ae-Cha Joo,(209) 555-0100,(209) 555-0101,http://www.tailspintoys.com/SouthLaguna,Delivery Van,South Laguna
+110,"Tailspin Toys (North Crows Nest, IN)",Novelty Shop,Dinara Saparkyzy,(219) 555-0100,(219) 555-0101,http://www.tailspintoys.com/NorthCrowsNest,Delivery Van,North Crows Nest
+111,"Tailspin Toys (Oriole Beach, FL)",Novelty Shop,Adam Dvorak,(239) 555-0100,(239) 555-0101,http://www.tailspintoys.com/OrioleBeach,Delivery Van,Oriole Beach
+112,"Tailspin Toys (Sallyards, KS)",Novelty Shop,Ingrida Celmina,(316) 555-0100,(316) 555-0101,http://www.tailspintoys.com/Sallyards,Delivery Van,Sallyards
+113,"Tailspin Toys (Dahlia, NM)",Novelty Shop,Jae-Hwa Jang,(505) 555-0100,(505) 555-0101,http://www.tailspintoys.com/Dahlia,Delivery Van,Dahlia
+114,"Tailspin Toys (Cherry Grove Beach, SC)",Novelty Shop,Duck-Hwan Bae,(803) 555-0100,(803) 555-0101,http://www.tailspintoys.com/CherryGroveBeach,Delivery Van,Cherry Grove Beach
+115,"Tailspin Toys (Bethania, NC)",Novelty Shop,Jagoda Vasiljevic,(252) 555-0100,(252) 555-0101,http://www.tailspintoys.com/Bethania,Delivery Van,Bethania
+116,"Tailspin Toys (Rafael Capó, PR)",Novelty Shop,Toma Nastase,(787) 555-0100,(787) 555-0101,http://www.tailspintoys.com/RafaelCapó,Delivery Van,Rafael Capó
+117,"Tailspin Toys (Scofield, UT)",Novelty Shop,Valerio Cardoso,(385) 555-0100,(385) 555-0101,http://www.tailspintoys.com/Scofield,Delivery Van,Scofield
+118,"Tailspin Toys (Vassalboro, ME)",Novelty Shop,Ileana Aguilar,(207) 555-0100,(207) 555-0101,http://www.tailspintoys.com/Vassalboro,Delivery Van,Vassalboro
+119,"Tailspin Toys (Statenville, GA)",Novelty Shop,Tjasa Weitzer,(229) 555-0100,(229) 555-0101,http://www.tailspintoys.com/Statenville,Delivery Van,Statenville
+120,"Tailspin Toys (Bratenahl, OH)",Novelty Shop,Lucas Van Veenen,(216) 555-0100,(216) 555-0101,http://www.tailspintoys.com/Bratenahl,Delivery Van,Bratenahl
+121,"Tailspin Toys (Elrosa, MN)",Novelty Shop,Steven Frasier,(218) 555-0100,(218) 555-0101,http://www.tailspintoys.com/Elrosa,Delivery Van,Elrosa
+122,"Tailspin Toys (McClave, CO)",Novelty Shop,Mauri Enestam,(303) 555-0100,(303) 555-0101,http://www.tailspintoys.com/McClave,Delivery Van,McClave
+123,"Tailspin Toys (Roe Park, NY)",Novelty Shop,Ella Zvirbule,(212) 555-0100,(212) 555-0101,http://www.tailspintoys.com/RoePark,Delivery Van,Roe Park
+124,"Tailspin Toys (Hanoverton, OH)",Novelty Shop,Sevim AydÄ±n,(216) 555-0100,(216) 555-0101,http://www.tailspintoys.com/Hanoverton,Delivery Van,Hanoverton
+125,"Tailspin Toys (Annamoriah, WV)",Novelty Shop,Blanka Stavinohova,(304) 555-0100,(304) 555-0101,http://www.tailspintoys.com/Annamoriah,Delivery Van,Annamoriah
+126,"Tailspin Toys (Francis Mills, NJ)",Novelty Shop,Akanksha Iyengar,(201) 555-0100,(201) 555-0101,http://www.tailspintoys.com/FrancisMills,Delivery Van,Francis Mills
+127,"Tailspin Toys (Point Roberts, WA)",Novelty Shop,Kertu Smirnov,(206) 555-0100,(206) 555-0101,http://www.tailspintoys.com/PointRoberts,Delivery Van,Point Roberts
+128,"Tailspin Toys (East Portal, CO)",Novelty Shop,Jure Grabensek,(303) 555-0100,(303) 555-0101,http://www.tailspintoys.com/EastPortal,Delivery Van,East Portal
+129,"Tailspin Toys (Mineral Hills, MI)",Novelty Shop,Javiera Madera,(231) 555-0100,(231) 555-0101,http://www.tailspintoys.com/MineralHills,Delivery Van,Mineral Hills
+130,"Tailspin Toys (Maple Shade, NJ)",Novelty Shop,Aija Mottola,(201) 555-0100,(201) 555-0101,http://www.tailspintoys.com/MapleShade,Delivery Van,Maple Shade
+131,"Tailspin Toys (Kwethluk, AK)",Novelty Shop,Darshan Gupta,(907) 555-0100,(907) 555-0101,http://www.tailspintoys.com/Kwethluk,Delivery Van,Kwethluk
+132,"Tailspin Toys (Minidoka, ID)",Novelty Shop,Akanksha Sarma,(208) 555-0100,(208) 555-0101,http://www.tailspintoys.com/Minidoka,Delivery Van,Minidoka
+133,"Tailspin Toys (Lake Erie Beach, NY)",Novelty Shop,Aino Kallas,(212) 555-0100,(212) 555-0101,http://www.tailspintoys.com/LakeErieBeach,Delivery Van,Lake Erie Beach
+134,"Tailspin Toys (Tavares, FL)",Novelty Shop,An Dung Phung,(239) 555-0100,(239) 555-0101,http://www.tailspintoys.com/Tavares,Delivery Van,Tavares
+135,"Tailspin Toys (Terre du Lac, MO)",Novelty Shop,Gaurav Sikdar,(314) 555-0100,(314) 555-0101,http://www.tailspintoys.com/TerreduLac,Delivery Van,Terre du Lac
+136,"Tailspin Toys (Mount Montgomery, NV)",Novelty Shop,Anirban Sen,(702) 555-0100,(702) 555-0101,http://www.tailspintoys.com/MountMontgomery,Delivery Van,Mount Montgomery
+137,"Tailspin Toys (Carbonville, UT)",Novelty Shop,Chandrakanta Benjaree,(385) 555-0100,(385) 555-0101,http://www.tailspintoys.com/Carbonville,Delivery Van,Carbonville
+138,"Tailspin Toys (Navassa, NC)",Novelty Shop,Badari Chadalavada,(252) 555-0100,(252) 555-0101,http://www.tailspintoys.com/Navassa,Delivery Van,Navassa
+139,"Tailspin Toys (Hardeeville, SC)",Novelty Shop,Gabriele Udinesi,(803) 555-0100,(803) 555-0101,http://www.tailspintoys.com/Hardeeville,Delivery Van,Hardeeville
+140,"Tailspin Toys (Furley, KS)",Novelty Shop,Malay PrabhupÄda,(316) 555-0100,(316) 555-0101,http://www.tailspintoys.com/Furley,Delivery Van,Furley
+141,"Tailspin Toys (Arrow Rock, MO)",Novelty Shop,Hedi Koppel,(314) 555-0100,(314) 555-0101,http://www.tailspintoys.com/ArrowRock,Delivery Van,Arrow Rock
+142,"Tailspin Toys (King Cove, AK)",Novelty Shop,Denisa Ioveanu,(907) 555-0100,(907) 555-0101,http://www.tailspintoys.com/KingCove,Delivery Van,King Cove
+143,"Tailspin Toys (Ashtabula, OH)",Novelty Shop,Vaclav Polaskova,(216) 555-0100,(216) 555-0101,http://www.tailspintoys.com/Ashtabula,Delivery Van,Ashtabula
+144,"Tailspin Toys (Larose, LA)",Novelty Shop,Pramod Nishad,(225) 555-0100,(225) 555-0101,http://www.tailspintoys.com/Larose,Delivery Van,Larose
+145,"Tailspin Toys (Manahawkin, NJ)",Novelty Shop,Prasong Tuntayakul,(201) 555-0100,(201) 555-0101,http://www.tailspintoys.com/Manahawkin,Delivery Van,Manahawkin
+146,"Tailspin Toys (Belgreen, AL)",Novelty Shop,Aija Zvaigzne,(205) 555-0100,(205) 555-0101,http://www.tailspintoys.com/Belgreen,Delivery Van,Belgreen
+147,"Tailspin Toys (Fishtail, MT)",Novelty Shop,Gilbert Pelland,(406) 555-0100,(406) 555-0101,http://www.tailspintoys.com/Fishtail,Delivery Van,Fishtail
+148,"Tailspin Toys (Baraboo, WI)",Novelty Shop,Marcella Napolitani,(262) 555-0100,(262) 555-0101,http://www.tailspintoys.com/Baraboo,Delivery Van,Baraboo
+149,"Tailspin Toys (Inguadona, MN)",Novelty Shop,Femke Hollenberg,(218) 555-0100,(218) 555-0101,http://www.tailspintoys.com/Inguadona,Delivery Van,Inguadona
+150,"Tailspin Toys (Corfu, NY)",Novelty Shop,Brita Jarvi,(212) 555-0100,(212) 555-0101,http://www.tailspintoys.com/Corfu,Delivery Van,Corfu
+151,"Tailspin Toys (Antares, AZ)",Novelty Shop,Donato Araujo,(480) 555-0100,(480) 555-0101,http://www.tailspintoys.com/Antares,Delivery Van,Antares
+152,"Tailspin Toys (Sun River, MT)",Novelty Shop,Aleksander Jarvi,(406) 555-0100,(406) 555-0101,http://www.tailspintoys.com/SunRiver,Delivery Van,Sun River
+153,"Tailspin Toys (Marcell, MN)",Novelty Shop,Malati Shenoy,(218) 555-0100,(218) 555-0101,http://www.tailspintoys.com/Marcell,Delivery Van,Marcell
+154,"Tailspin Toys (Eden Valley, MN)",Novelty Shop,Gui-Hyun Ji,(218) 555-0100,(218) 555-0101,http://www.tailspintoys.com/EdenValley,Delivery Van,Eden Valley
+155,"Tailspin Toys (Arbor Vitae, WI)",Novelty Shop,Michal Polaskova,(262) 555-0100,(262) 555-0101,http://www.tailspintoys.com/ArborVitae,Delivery Van,Arbor Vitae
+156,"Tailspin Toys (Hollywood Park, TX)",Novelty Shop,Dilara Ayhan,(210) 555-0100,(210) 555-0101,http://www.tailspintoys.com/HollywoodPark,Delivery Van,Hollywood Park
+157,"Tailspin Toys (Saks, AL)",Novelty Shop,Peter Macias,(205) 555-0100,(205) 555-0101,http://www.tailspintoys.com/Saks,Delivery Van,Saks
+158,"Tailspin Toys (Donner, LA)",Novelty Shop,Kurt Lukes,(225) 555-0100,(225) 555-0101,http://www.tailspintoys.com/Donner,Delivery Van,Donner
+159,"Tailspin Toys (Saint Louis Park, MN)",Novelty Shop,Beatrise Bite,(218) 555-0100,(218) 555-0101,http://www.tailspintoys.com/SaintLouisPark,Delivery Van,Saint Louis Park
+160,"Tailspin Toys (Crary, ND)",Novelty Shop,Bishwanath Ghosh,(701) 555-0100,(701) 555-0101,http://www.tailspintoys.com/Crary,Delivery Van,Crary
+161,"Tailspin Toys (Aspen Park, CO)",Novelty Shop,Gianguido Lucchesi,(303) 555-0100,(303) 555-0101,http://www.tailspintoys.com/AspenPark,Delivery Van,Aspen Park
+162,"Tailspin Toys (Glen Park, NY)",Novelty Shop,Nu Bach,(212) 555-0100,(212) 555-0101,http://www.tailspintoys.com/GlenPark,Delivery Van,Glen Park
+163,"Tailspin Toys (Panaca, NV)",Novelty Shop,Ivonna Ene,(702) 555-0100,(702) 555-0101,http://www.tailspintoys.com/Panaca,Delivery Van,Panaca
+164,"Tailspin Toys (Rothsville, PA)",Novelty Shop,Ceyhun sahin,(215) 555-0100,(215) 555-0101,http://www.tailspintoys.com/Rothsville,Delivery Van,Rothsville
+165,"Tailspin Toys (Topstone, CT)",Novelty Shop,Tian Peng,(203) 555-0100,(203) 555-0101,http://www.tailspintoys.com/Topstone,Delivery Van,Topstone
+166,"Tailspin Toys (McCamey, TX)",Novelty Shop,Vlastimil Bohuslav,(210) 555-0100,(210) 555-0101,http://www.tailspintoys.com/McCamey,Delivery Van,McCamey
+167,"Tailspin Toys (Rockwall, TX)",Novelty Shop,Nejc Vosnik,(210) 555-0100,(210) 555-0101,http://www.tailspintoys.com/Rockwall,Delivery Van,Rockwall
+168,"Tailspin Toys (Seagraves, TX)",Novelty Shop,Anindo Mazumdar,(210) 555-0100,(210) 555-0101,http://www.tailspintoys.com/Seagraves,Delivery Van,Seagraves
+169,"Tailspin Toys (Sinclair, WY)",Novelty Shop,Nils Balodis,(307) 555-0100,(307) 555-0101,http://www.tailspintoys.com/Sinclair,Delivery Van,Sinclair
+170,"Tailspin Toys (Eastchester, NY)",Novelty Shop,Daniella Barbosa,(212) 555-0100,(212) 555-0101,http://www.tailspintoys.com/Eastchester,Delivery Van,Eastchester
+171,"Tailspin Toys (Ortley Beach, NJ)",Novelty Shop,Raymond Levesque,(201) 555-0100,(201) 555-0101,http://www.tailspintoys.com/OrtleyBeach,Delivery Van,Ortley Beach
+172,"Tailspin Toys (Madrone, NM)",Novelty Shop,Raymond Desforges,(505) 555-0100,(505) 555-0101,http://www.tailspintoys.com/Madrone,Delivery Van,Madrone
+173,"Tailspin Toys (Wappingers Falls, NY)",Novelty Shop,Raju Atluri,(212) 555-0100,(212) 555-0101,http://www.tailspintoys.com/WappingersFalls,Delivery Van,Wappingers Falls
+174,"Tailspin Toys (Astor Park, FL)",Novelty Shop,Matyas Bohuslav,(239) 555-0100,(239) 555-0101,http://www.tailspintoys.com/AstorPark,Delivery Van,Astor Park
+175,"Tailspin Toys (San Acacia, NM)",Novelty Shop,Julio Correa,(505) 555-0100,(505) 555-0101,http://www.tailspintoys.com/SanAcacia,Delivery Van,San Acacia
+176,"Tailspin Toys (Malott, WA)",Novelty Shop,Banshari De,(206) 555-0100,(206) 555-0101,http://www.tailspintoys.com/Malott,Delivery Van,Malott
+177,"Tailspin Toys (Orrtanna, PA)",Novelty Shop,Ngai Lam,(215) 555-0100,(215) 555-0101,http://www.tailspintoys.com/Orrtanna,Delivery Van,Orrtanna
+178,"Tailspin Toys (Armstrong Creek, WI)",Novelty Shop,Hyun-Doo Song,(262) 555-0100,(262) 555-0101,http://www.tailspintoys.com/ArmstrongCreek,Delivery Van,Armstrong Creek
+179,"Tailspin Toys (Hiteman, IA)",Novelty Shop,Gabriela Srbova,(319) 555-0100,(319) 555-0101,http://www.tailspintoys.com/Hiteman,Delivery Van,Hiteman
+180,"Tailspin Toys (Caselton, NV)",Novelty Shop,Serkan senturk,(702) 555-0100,(702) 555-0101,http://www.tailspintoys.com/Caselton,Delivery Van,Caselton
+181,"Tailspin Toys (Heilwood, PA)",Novelty Shop,Aahlada Thota,(215) 555-0100,(215) 555-0101,http://www.tailspintoys.com/Heilwood,Delivery Van,Heilwood
+182,"Tailspin Toys (Hayes Center, NE)",Novelty Shop,Ayberk sahin,(308) 555-0100,(308) 555-0101,http://www.tailspintoys.com/HayesCenter,Delivery Van,Hayes Center
+183,"Tailspin Toys (Tierra Verde, FL)",Novelty Shop,Kaan Tekin,(239) 555-0100,(239) 555-0101,http://www.tailspintoys.com/TierraVerde,Delivery Van,Tierra Verde
+184,"Tailspin Toys (South Euclid, OH)",Novelty Shop,Lata Khandke,(216) 555-0100,(216) 555-0101,http://www.tailspintoys.com/SouthEuclid,Delivery Van,South Euclid
+185,"Tailspin Toys (Vidrine, LA)",Novelty Shop,Truman Eder,(225) 555-0100,(225) 555-0101,http://www.tailspintoys.com/Vidrine,Delivery Van,Vidrine
+186,"Tailspin Toys (Placer, OR)",Novelty Shop,Lorraine Paulet,(458) 555-0100,(458) 555-0101,http://www.tailspintoys.com/Placer,Delivery Van,Placer
+187,"Tailspin Toys (Brown City, MI)",Novelty Shop,Biplab De,(231) 555-0100,(231) 555-0101,http://www.tailspintoys.com/BrownCity,Delivery Van,Brown City
+188,"Tailspin Toys (Premont, TX)",Novelty Shop,Rachelle Brasseur,(210) 555-0100,(210) 555-0101,http://www.tailspintoys.com/Premont,Delivery Van,Premont
+189,"Tailspin Toys (Wilkes-Barre, PA)",Novelty Shop,Sara Charlton,(215) 555-0100,(215) 555-0101,http://www.tailspintoys.com/Wilkes-Barre,Delivery Van,Wilkes-Barre
+190,"Tailspin Toys (Teutopolis, IL)",Novelty Shop,Ramesh Mukherjee,(217) 555-0100,(217) 555-0101,http://www.tailspintoys.com/Teutopolis,Delivery Van,Teutopolis
+191,"Tailspin Toys (Orchard Hill, GA)",Novelty Shop,Ester Ahmadian,(229) 555-0100,(229) 555-0101,http://www.tailspintoys.com/OrchardHill,Delivery Van,Orchard Hill
+192,"Tailspin Toys (Optimo, NM)",Novelty Shop,Daniel Magnusson,(505) 555-0100,(505) 555-0101,http://www.tailspintoys.com/Optimo,Delivery Van,Optimo
+193,"Tailspin Toys (Knifley, KY)",Novelty Shop,Jack Carpenter,(270) 555-0100,(270) 555-0101,http://www.tailspintoys.com/Knifley,Delivery Van,Knifley
+194,"Tailspin Toys (Naples Park, FL)",Novelty Shop,Thomas Fischer,(239) 555-0100,(239) 555-0101,http://www.tailspintoys.com/NaplesPark,Delivery Van,Naples Park
+195,"Tailspin Toys (Lesslie, SC)",Novelty Shop,Viollette Monty,(803) 555-0100,(803) 555-0101,http://www.tailspintoys.com/Lesslie,Delivery Van,Lesslie
+196,"Tailspin Toys (Howells, NE)",Novelty Shop,Alinne Cardoso,(308) 555-0100,(308) 555-0101,http://www.tailspintoys.com/Howells,Delivery Van,Howells
+197,"Tailspin Toys (Magalia, CA)",Novelty Shop,Mani Poddar,(209) 555-0100,(209) 555-0101,http://www.tailspintoys.com/Magalia,Delivery Van,Magalia
+198,"Tailspin Toys (Buell, MO)",Novelty Shop,Deakshitulu Mokkapati,(314) 555-0100,(314) 555-0101,http://www.tailspintoys.com/Buell,Delivery Van,Buell
+199,"Tailspin Toys (Antonito, CO)",Novelty Shop,Cezar Pavel,(303) 555-0100,(303) 555-0101,http://www.tailspintoys.com/Antonito,Delivery Van,Antonito
+200,"Tailspin Toys (Tooele, UT)",Novelty Shop,Fanni Benko,(385) 555-0100,(385) 555-0101,http://www.tailspintoys.com/Tooele,Delivery Van,Tooele
+201,"Tailspin Toys (Skyway, WA)",Novelty Shop,Brenda Morgan,(206) 555-0100,(206) 555-0101,http://www.tailspintoys.com/Skyway,Delivery Van,Skyway
+401,Wingtip Toys (Head Office),Novelty Shop,Olga Alexandrova,(303) 555-0100,(303) 555-0101,http://www.wingtiptoys.com,Delivery Van,Orchard Mesa
+402,"Wingtip Toys (Black Lick, PA)",Novelty Shop,Maris Baltins,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/BlackLick,Delivery Van,Black Lick
+403,"Wingtip Toys (Queen Valley, AZ)",Novelty Shop,Parsa Reuser,(480) 555-0100,(480) 555-0101,http://www.wingtiptoys.com/QueenValley,Delivery Van,Queen Valley
+404,"Wingtip Toys (Penns Creek, PA)",Novelty Shop,Duleep Srivastava,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/PennsCreek,Delivery Van,Penns Creek
+405,"Wingtip Toys (Bourbonnais, IL)",Novelty Shop,Miran Nikolic,(217) 555-0100,(217) 555-0101,http://www.wingtiptoys.com/Bourbonnais,Delivery Van,Bourbonnais
+406,"Wingtip Toys (Tuscaloosa, AL)",Novelty Shop,Calin Bojin,(205) 555-0100,(205) 555-0101,http://www.wingtiptoys.com/Tuscaloosa,Delivery Van,Tuscaloosa
+407,"Wingtip Toys (Mooringsport, LA)",Novelty Shop,Lang Le,(225) 555-0100,(225) 555-0101,http://www.wingtiptoys.com/Mooringsport,Delivery Van,Mooringsport
+408,"Wingtip Toys (Rockwall, TX)",Novelty Shop,Bhaagyalakshmi Muppavarapu,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/Rockwall,Delivery Van,Rockwall
+409,"Wingtip Toys (Orick, CA)",Novelty Shop,Dimitry Nechita,(209) 555-0100,(209) 555-0101,http://www.wingtiptoys.com/Orick,Delivery Van,Orick
+410,"Wingtip Toys (Bernstein, TX)",Novelty Shop,Miroslav Kohout,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/Bernstein,Delivery Van,Bernstein
+411,"Wingtip Toys (Edmund, WI)",Novelty Shop,Fransje Mutlu,(262) 555-0100,(262) 555-0101,http://www.wingtiptoys.com/Edmund,Delivery Van,Edmund
+412,"Wingtip Toys (Bozeman Hot Springs, MT)",Novelty Shop,Chati Ornlamai,(406) 555-0100,(406) 555-0101,http://www.wingtiptoys.com/BozemanHotSprings,Delivery Van,Bozeman Hot Springs
+413,"Wingtip Toys (Truscott, TX)",Novelty Shop,Raine Knihtila,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/Truscott,Delivery Van,Truscott
+414,"Wingtip Toys (Rose Tree, PA)",Novelty Shop,Lan Chu,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/RoseTree,Delivery Van,Rose Tree
+415,"Wingtip Toys (Leathersville, GA)",Novelty Shop,Maurice English,(229) 555-0100,(229) 555-0101,http://www.wingtiptoys.com/Leathersville,Delivery Van,Leathersville
+416,"Wingtip Toys (Necedah, WI)",Novelty Shop,Irene Sepp,(262) 555-0100,(262) 555-0101,http://www.wingtiptoys.com/Necedah,Delivery Van,Necedah
+417,"Wingtip Toys (Chetek, WI)",Novelty Shop,Chandranath Bose,(262) 555-0100,(262) 555-0101,http://www.wingtiptoys.com/Chetek,Delivery Van,Chetek
+418,"Wingtip Toys (Yaak, MT)",Novelty Shop,Ana Julijana Isa,(406) 555-0100,(406) 555-0101,http://www.wingtiptoys.com/Yaak,Delivery Van,Yaak
+419,"Wingtip Toys (Compass Lake, FL)",Novelty Shop,Gireesh Bhogireddy,(239) 555-0100,(239) 555-0101,http://www.wingtiptoys.com/CompassLake,Delivery Van,Compass Lake
+420,"Wingtip Toys (Herlong, CA)",Novelty Shop,Premwadee Atitarn,(209) 555-0100,(209) 555-0101,http://www.wingtiptoys.com/Herlong,Delivery Van,Herlong
+421,"Wingtip Toys (Highland Home, AL)",Novelty Shop,Nishant Patil,(205) 555-0100,(205) 555-0101,http://www.wingtiptoys.com/HighlandHome,Delivery Van,Highland Home
+422,"Wingtip Toys (Naches, WA)",Novelty Shop,Rohan Das,(206) 555-0100,(206) 555-0101,http://www.wingtiptoys.com/Naches,Delivery Van,Naches
+423,"Wingtip Toys (Baldwin City, KS)",Novelty Shop,Aamdaal Kamasamudram,(316) 555-0100,(316) 555-0101,http://www.wingtiptoys.com/BaldwinCity,Delivery Van,Baldwin City
+424,"Wingtip Toys (Heartwell, NE)",Novelty Shop,Baebeesarasvati Kamasamudram,(308) 555-0100,(308) 555-0101,http://www.wingtiptoys.com/Heartwell,Delivery Van,Heartwell
+425,"Wingtip Toys (Bethel Acres, OK)",Novelty Shop,Marcello Dellucci,(405) 555-0100,(405) 555-0101,http://www.wingtiptoys.com/BethelAcres,Delivery Van,Bethel Acres
+426,"Wingtip Toys (Willow Valley, AZ)",Novelty Shop,Mee-Kyong Sin,(480) 555-0100,(480) 555-0101,http://www.wingtiptoys.com/WillowValley,Delivery Van,Willow Valley
+427,"Wingtip Toys (Athol Springs, NY)",Novelty Shop,Ivica LuÄic,(212) 555-0100,(212) 555-0101,http://www.wingtiptoys.com/AtholSprings,Delivery Van,Athol Springs
+428,"Wingtip Toys (Paw Paw Lake, MI)",Novelty Shop,Vinicius Correa,(231) 555-0100,(231) 555-0101,http://www.wingtiptoys.com/PawPawLake,Delivery Van,Paw Paw Lake
+429,"Wingtip Toys (Lilbourn, MO)",Novelty Shop,Fabio Pena,(314) 555-0100,(314) 555-0101,http://www.wingtiptoys.com/Lilbourn,Delivery Van,Lilbourn
+430,"Wingtip Toys (Lost River, ID)",Novelty Shop,Lakshmi Roy,(208) 555-0100,(208) 555-0101,http://www.wingtiptoys.com/LostRiver,Delivery Van,Lost River
+431,"Wingtip Toys (Rosa Sánchez, PR)",Novelty Shop,Selma Seppanen,(787) 555-0100,(787) 555-0101,http://www.wingtiptoys.com/RosaSánchez,Delivery Van,Rosa Sánchez
+432,"Wingtip Toys (Vamo, FL)",Novelty Shop,Bay Ly,(239) 555-0100,(239) 555-0101,http://www.wingtiptoys.com/Vamo,Delivery Van,Vamo
+433,"Wingtip Toys (Balko, OK)",Novelty Shop,Adirake Saenamuang,(405) 555-0100,(405) 555-0101,http://www.wingtiptoys.com/Balko,Delivery Van,Balko
+434,"Wingtip Toys (Lime Lake, NY)",Novelty Shop,Tarja Penttila,(212) 555-0100,(212) 555-0101,http://www.wingtiptoys.com/LimeLake,Delivery Van,Lime Lake
+435,"Wingtip Toys (Teutopolis, IL)",Novelty Shop,Devendranath Huq,(217) 555-0100,(217) 555-0101,http://www.wingtiptoys.com/Teutopolis,Delivery Van,Teutopolis
+436,"Wingtip Toys (Gargatha, VA)",Novelty Shop,Enes Olsson,(276) 555-0100,(276) 555-0101,http://www.wingtiptoys.com/Gargatha,Delivery Van,Gargatha
+437,"Wingtip Toys (Cadogan, PA)",Novelty Shop,Vanja Grgic,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/Cadogan,Delivery Van,Cadogan
+438,"Wingtip Toys (Lucasville, OH)",Novelty Shop,Dayaram Mishra,(216) 555-0100,(216) 555-0101,http://www.wingtiptoys.com/Lucasville,Delivery Van,Lucasville
+439,"Wingtip Toys (Cylon, WI)",Novelty Shop,Mina Omidzadeh,(262) 555-0100,(262) 555-0101,http://www.wingtiptoys.com/Cylon,Delivery Van,Cylon
+440,"Wingtip Toys (Asher, OK)",Novelty Shop,Kadir Usenuly,(405) 555-0100,(405) 555-0101,http://www.wingtiptoys.com/Asher,Delivery Van,Asher
+441,"Wingtip Toys (Keosauqua, IA)",Novelty Shop,Kajsa Jakobsson,(319) 555-0100,(319) 555-0101,http://www.wingtiptoys.com/Keosauqua,Delivery Van,Keosauqua
+442,"Wingtip Toys (Homer City, PA)",Novelty Shop,Rahul Ghate,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/HomerCity,Delivery Van,Homer City
+443,"Wingtip Toys (Berville, MI)",Novelty Shop,Lien Banh,(231) 555-0100,(231) 555-0101,http://www.wingtiptoys.com/Berville,Delivery Van,Berville
+444,"Wingtip Toys (Tea, SD)",Novelty Shop,Divyendu Chakraborty,(605) 555-0100,(605) 555-0101,http://www.wingtiptoys.com/Tea,Delivery Van,Tea
+445,"Wingtip Toys (Dacono, CO)",Novelty Shop,An Dung Ngo,(303) 555-0100,(303) 555-0101,http://www.wingtiptoys.com/Dacono,Delivery Van,Dacono
+446,"Wingtip Toys (Saint Landry, LA)",Novelty Shop,Chetana Kamath,(225) 555-0100,(225) 555-0101,http://www.wingtiptoys.com/SaintLandry,Delivery Van,Saint Landry
+447,"Wingtip Toys (Coin, IA)",Novelty Shop,Premwadee Saowaluk,(319) 555-0100,(319) 555-0101,http://www.wingtiptoys.com/Coin,Delivery Van,Coin
+448,"Wingtip Toys (Salt Wells, NV)",Novelty Shop,Jae-Hwa Min,(702) 555-0100,(702) 555-0101,http://www.wingtiptoys.com/SaltWells,Delivery Van,Salt Wells
+449,"Wingtip Toys (Delray, WV)",Novelty Shop,Catalina Nechita,(304) 555-0100,(304) 555-0101,http://www.wingtiptoys.com/Delray,Delivery Van,Delray
+450,"Wingtip Toys (Mount Summit, IN)",Novelty Shop,Constanza Laureano,(219) 555-0100,(219) 555-0101,http://www.wingtiptoys.com/MountSummit,Delivery Van,Mount Summit
+451,"Wingtip Toys (Smoot, WY)",Novelty Shop,Aakriti Bhamidipati,(307) 555-0100,(307) 555-0101,http://www.wingtiptoys.com/Smoot,Delivery Van,Smoot
+452,"Wingtip Toys (Lake Davis, CA)",Novelty Shop,Himadri PrabhupÄda,(209) 555-0100,(209) 555-0101,http://www.wingtiptoys.com/LakeDavis,Delivery Van,Lake Davis
+453,"Wingtip Toys (Stanardsville, VA)",Novelty Shop,Bryan Helms,(276) 555-0100,(276) 555-0101,http://www.wingtiptoys.com/Stanardsville,Delivery Van,Stanardsville
+454,"Wingtip Toys (Corcovado, PR)",Novelty Shop,Harri Kask,(787) 555-0100,(787) 555-0101,http://www.wingtiptoys.com/Corcovado,Delivery Van,Corcovado
+455,"Wingtip Toys (Taft Heights, CA)",Novelty Shop,Ilse Sandell,(209) 555-0100,(209) 555-0101,http://www.wingtiptoys.com/TaftHeights,Delivery Van,Taft Heights
+456,"Wingtip Toys (West Hempstead, NY)",Novelty Shop,Subhash Matondkar,(212) 555-0100,(212) 555-0101,http://www.wingtiptoys.com/WestHempstead,Delivery Van,West Hempstead
+457,"Wingtip Toys (Portales, NM)",Novelty Shop,Eesvaraavu Ankitham,(505) 555-0100,(505) 555-0101,http://www.wingtiptoys.com/Portales,Delivery Van,Portales
+458,"Wingtip Toys (Coker, AL)",Novelty Shop,Miguel Paez,(205) 555-0100,(205) 555-0101,http://www.wingtiptoys.com/Coker,Delivery Van,Coker
+459,"Wingtip Toys (Haydenville, OH)",Novelty Shop,Tobias Gruber,(216) 555-0100,(216) 555-0101,http://www.wingtiptoys.com/Haydenville,Delivery Van,Haydenville
+460,"Wingtip Toys (Mayhill, NM)",Novelty Shop,Daniela Dumina,(505) 555-0100,(505) 555-0101,http://www.wingtiptoys.com/Mayhill,Delivery Van,Mayhill
+461,"Wingtip Toys (Vair, TX)",Novelty Shop,Ganesh Mukherjee,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/Vair,Delivery Van,Vair
+462,"Wingtip Toys (Crossroads, NM)",Novelty Shop,Avanti Nishad,(505) 555-0100,(505) 555-0101,http://www.wingtiptoys.com/Crossroads,Delivery Van,Crossroads
+463,"Wingtip Toys (Cowlington, OK)",Novelty Shop,Daedeepya Thota,(405) 555-0100,(405) 555-0101,http://www.wingtiptoys.com/Cowlington,Delivery Van,Cowlington
+464,"Wingtip Toys (Glen Ullin, ND)",Novelty Shop,Gabriela Chirila,(701) 555-0100,(701) 555-0101,http://www.wingtiptoys.com/GlenUllin,Delivery Van,Glen Ullin
+465,"Wingtip Toys (Oologah, OK)",Novelty Shop,Nagur Atluri,(405) 555-0100,(405) 555-0101,http://www.wingtiptoys.com/Oologah,Delivery Van,Oologah
+466,"Wingtip Toys (Lytle, TX)",Novelty Shop,Sintja Buecek,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/Lytle,Delivery Van,Lytle
+467,"Wingtip Toys (Mahaffey, PA)",Novelty Shop,Pongrit Srisati,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/Mahaffey,Delivery Van,Mahaffey
+468,"Wingtip Toys (Sunburg, MN)",Novelty Shop,Linda Green,(218) 555-0100,(218) 555-0101,http://www.wingtiptoys.com/Sunburg,Delivery Van,Sunburg
+469,"Wingtip Toys (Johnetta, KY)",Novelty Shop,Sarmis Skujins,(270) 555-0100,(270) 555-0101,http://www.wingtiptoys.com/Johnetta,Delivery Van,Johnetta
+470,"Wingtip Toys (Universal City, TX)",Novelty Shop,Libuse Srbova,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/UniversalCity,Delivery Van,Universal City
+471,"Wingtip Toys (Ridgemark, CA)",Novelty Shop,Viktorie Stejskalova,(209) 555-0100,(209) 555-0101,http://www.wingtiptoys.com/Ridgemark,Delivery Van,Ridgemark
+472,"Wingtip Toys (San Jacinto, CA)",Novelty Shop,Slavko Pavlovic,(209) 555-0100,(209) 555-0101,http://www.wingtiptoys.com/SanJacinto,Delivery Van,San Jacinto
+473,"Wingtip Toys (Floriston, CA)",Novelty Shop,Doru Munteanu,(209) 555-0100,(209) 555-0101,http://www.wingtiptoys.com/Floriston,Delivery Van,Floriston
+474,"Wingtip Toys (Bokeelia, FL)",Novelty Shop,Aile Aasmae,(239) 555-0100,(239) 555-0101,http://www.wingtiptoys.com/Bokeelia,Delivery Van,Bokeelia
+475,"Wingtip Toys (Cale, AR)",Novelty Shop,Ava Edden,(479) 555-0100,(479) 555-0101,http://www.wingtiptoys.com/Cale,Delivery Van,Cale
+476,"Wingtip Toys (Karthaus, PA)",Novelty Shop,Manali Bose,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/Karthaus,Delivery Van,Karthaus
+477,"Wingtip Toys (Glancy, MS)",Novelty Shop,Astrid Poisson,(228) 555-0100,(228) 555-0101,http://www.wingtiptoys.com/Glancy,Delivery Van,Glancy
+478,"Wingtip Toys (Stoneboro, PA)",Novelty Shop,Gi-Suk Heo,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/Stoneboro,Delivery Van,Stoneboro
+479,"Wingtip Toys (Mier, IN)",Novelty Shop,Irma Kruze,(219) 555-0100,(219) 555-0101,http://www.wingtiptoys.com/Mier,Delivery Van,Mier
+480,"Wingtip Toys (Wapinitia, OR)",Novelty Shop,Dhaeraemdranaadh Pamulaparthi,(458) 555-0100,(458) 555-0101,http://www.wingtiptoys.com/Wapinitia,Delivery Van,Wapinitia
+481,"Wingtip Toys (White Church, MO)",Novelty Shop,Agrita Kalnina,(314) 555-0100,(314) 555-0101,http://www.wingtiptoys.com/WhiteChurch,Delivery Van,White Church
+482,"Wingtip Toys (Caton, NY)",Novelty Shop,Ravindra Sandhu,(212) 555-0100,(212) 555-0101,http://www.wingtiptoys.com/Caton,Delivery Van,Caton
+483,"Wingtip Toys (Plum Branch, SC)",Novelty Shop,Klara Rakus,(803) 555-0100,(803) 555-0101,http://www.wingtiptoys.com/PlumBranch,Delivery Van,Plum Branch
+484,"Wingtip Toys (Mauldin, SC)",Novelty Shop,Am Lo,(803) 555-0100,(803) 555-0101,http://www.wingtiptoys.com/Mauldin,Delivery Van,Mauldin
+485,"Wingtip Toys (Bonner Springs, KS)",Novelty Shop,Sophie Van Lier,(316) 555-0100,(316) 555-0101,http://www.wingtiptoys.com/BonnerSprings,Delivery Van,Bonner Springs
+486,"Wingtip Toys (Lowellville, OH)",Novelty Shop,Dimitry Profis,(216) 555-0100,(216) 555-0101,http://www.wingtiptoys.com/Lowellville,Delivery Van,Lowellville
+487,"Wingtip Toys (Elverson, PA)",Novelty Shop,Jan Zeman,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/Elverson,Delivery Van,Elverson
+488,"Wingtip Toys (Isabela, PR)",Novelty Shop,Ranjit Dikshit,(787) 555-0100,(787) 555-0101,http://www.wingtiptoys.com/Isabela,Delivery Van,Isabela
+489,"Wingtip Toys (Sayner, WI)",Novelty Shop,Varuna Ganguly,(262) 555-0100,(262) 555-0101,http://www.wingtiptoys.com/Sayner,Delivery Van,Sayner
+490,"Wingtip Toys (Beals, ME)",Novelty Shop,Basak Tekin,(207) 555-0100,(207) 555-0101,http://www.wingtiptoys.com/Beals,Delivery Van,Beals
+491,"Wingtip Toys (Morton Grove, IL)",Novelty Shop,Doru Tirlea,(217) 555-0100,(217) 555-0101,http://www.wingtiptoys.com/MortonGrove,Delivery Van,Morton Grove
+492,"Wingtip Toys (Birds, IL)",Novelty Shop,Jessica Perrine,(217) 555-0100,(217) 555-0101,http://www.wingtiptoys.com/Birds,Delivery Van,Birds
+493,"Wingtip Toys (Federalsburg, MD)",Novelty Shop,Yavuz Cetinkaya,(240) 555-0100,(240) 555-0101,http://www.wingtiptoys.com/Federalsburg,Delivery Van,Federalsburg
+494,"Wingtip Toys (Pikeview, CO)",Novelty Shop,Sirirat Kongpaisarn,(303) 555-0100,(303) 555-0101,http://www.wingtiptoys.com/Pikeview,Delivery Van,Pikeview
+495,"Wingtip Toys (Boalsburg, PA)",Novelty Shop,Claude Bonsaint,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/Boalsburg,Delivery Van,Boalsburg
+496,"Wingtip Toys (Port Hueneme, CA)",Novelty Shop,Roman Pajer,(209) 555-0100,(209) 555-0101,http://www.wingtiptoys.com/PortHueneme,Delivery Van,Port Hueneme
+497,"Wingtip Toys (Verdery, SC)",Novelty Shop,Vitezslav Holy,(803) 555-0100,(803) 555-0101,http://www.wingtiptoys.com/Verdery,Delivery Van,Verdery
+498,"Wingtip Toys (Obetz, OH)",Novelty Shop,Devi Dewangan,(216) 555-0100,(216) 555-0101,http://www.wingtiptoys.com/Obetz,Delivery Van,Obetz
+499,"Wingtip Toys (East Fultonham, OH)",Novelty Shop,Masa Buecek,(216) 555-0100,(216) 555-0101,http://www.wingtiptoys.com/EastFultonham,Delivery Van,East Fultonham
+500,"Wingtip Toys (Obion, TN)",Novelty Shop,Bipin Modi,(423) 555-0100,(423) 555-0101,http://www.wingtiptoys.com/Obion,Delivery Van,Obion
+501,"Wingtip Toys (Cavendish, VT)",Novelty Shop,Rahul Sarma,(802) 555-0100,(802) 555-0101,http://www.wingtiptoys.com/Cavendish,Delivery Van,Cavendish
+502,"Wingtip Toys (Miesville, MN)",Novelty Shop,Alejandro Escobar,(218) 555-0100,(218) 555-0101,http://www.wingtiptoys.com/Miesville,Delivery Van,Miesville
+503,"Wingtip Toys (Valhalla, NC)",Novelty Shop,Andris Vitols,(252) 555-0100,(252) 555-0101,http://www.wingtiptoys.com/Valhalla,Delivery Van,Valhalla
+504,"Wingtip Toys (Cape Neddick, ME)",Novelty Shop,Mariela Weitzer,(207) 555-0100,(207) 555-0101,http://www.wingtiptoys.com/CapeNeddick,Delivery Van,Cape Neddick
+505,"Wingtip Toys (Silver Plume, CO)",Novelty Shop,Alain Pelland,(303) 555-0100,(303) 555-0101,http://www.wingtiptoys.com/SilverPlume,Delivery Van,Silver Plume
+506,"Wingtip Toys (North Beach Haven, NJ)",Novelty Shop,Milica Stojkovic,(201) 555-0100,(201) 555-0101,http://www.wingtiptoys.com/NorthBeachHaven,Delivery Van,North Beach Haven
+507,"Wingtip Toys (Downingtown, PA)",Novelty Shop,Natalie Horackova,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/Downingtown,Delivery Van,Downingtown
+508,"Wingtip Toys (Branson West, MO)",Novelty Shop,Baalaaditya Rallapalli,(314) 555-0100,(314) 555-0101,http://www.wingtiptoys.com/BransonWest,Delivery Van,Branson West
+509,"Wingtip Toys (Bergen Park, CO)",Novelty Shop,Matej Formanek,(303) 555-0100,(303) 555-0101,http://www.wingtiptoys.com/BergenPark,Delivery Van,Bergen Park
+510,"Wingtip Toys (Grabill, IN)",Novelty Shop,Manish Ghosh,(219) 555-0100,(219) 555-0101,http://www.wingtiptoys.com/Grabill,Delivery Van,Grabill
+511,"Wingtip Toys (North Manitou, MI)",Novelty Shop,Pracha Nantakarn,(231) 555-0100,(231) 555-0101,http://www.wingtiptoys.com/NorthManitou,Delivery Van,North Manitou
+512,"Wingtip Toys (Philip, SD)",Novelty Shop,Charline Flamand,(605) 555-0100,(605) 555-0101,http://www.wingtiptoys.com/Philip,Delivery Van,Philip
+513,"Wingtip Toys (Straughn, IN)",Novelty Shop,Teodor Vlad,(219) 555-0100,(219) 555-0101,http://www.wingtiptoys.com/Straughn,Delivery Van,Straughn
+514,"Wingtip Toys (Gilford, NH)",Novelty Shop,Anda Liepa,(603) 555-0100,(603) 555-0101,http://www.wingtiptoys.com/Gilford,Delivery Van,Gilford
+515,"Wingtip Toys (Del Valle, TX)",Novelty Shop,Jelena Utjesenovic,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/DelValle,Delivery Van,Del Valle
+516,"Wingtip Toys (Harkers Island, NC)",Novelty Shop,Adriana Horackova,(252) 555-0100,(252) 555-0101,http://www.wingtiptoys.com/HarkersIsland,Delivery Van,Harkers Island
+517,"Wingtip Toys (Licking, MO)",Novelty Shop,Miika Putkonen,(314) 555-0100,(314) 555-0101,http://www.wingtiptoys.com/Licking,Delivery Van,Licking
+518,"Wingtip Toys (Raton, NM)",Novelty Shop,Padma Iyer,(505) 555-0100,(505) 555-0101,http://www.wingtiptoys.com/Raton,Delivery Van,Raton
+519,"Wingtip Toys (Boynton, OK)",Novelty Shop,Åšani Sen,(405) 555-0100,(405) 555-0101,http://www.wingtiptoys.com/Boynton,Delivery Van,Boynton
+520,"Wingtip Toys (Frenchburg, KY)",Novelty Shop,Helene Dupuy,(270) 555-0100,(270) 555-0101,http://www.wingtiptoys.com/Frenchburg,Delivery Van,Frenchburg
+521,"Wingtip Toys (Robertsdale, AL)",Novelty Shop,omer ozbek,(205) 555-0100,(205) 555-0101,http://www.wingtiptoys.com/Robertsdale,Delivery Van,Robertsdale
+522,"Wingtip Toys (Dickerson, MD)",Novelty Shop,Akshayakeerti Jandhyala,(240) 555-0100,(240) 555-0101,http://www.wingtiptoys.com/Dickerson,Delivery Van,Dickerson
+523,"Wingtip Toys (Bruceton Mills, WV)",Novelty Shop,Ankolika Sen,(304) 555-0100,(304) 555-0101,http://www.wingtiptoys.com/BrucetonMills,Delivery Van,Bruceton Mills
+524,"Wingtip Toys (Cloquet, MN)",Novelty Shop,Baalaamani Veturi,(218) 555-0100,(218) 555-0101,http://www.wingtiptoys.com/Cloquet,Delivery Van,Cloquet
+525,"Wingtip Toys (Claycomo, MO)",Novelty Shop,Julia Konecna,(314) 555-0100,(314) 555-0101,http://www.wingtiptoys.com/Claycomo,Delivery Van,Claycomo
+526,"Wingtip Toys (Beekmantown, NY)",Novelty Shop,Madelaine  Paulet,(212) 555-0100,(212) 555-0101,http://www.wingtiptoys.com/Beekmantown,Delivery Van,Beekmantown
+527,"Wingtip Toys (Islip Terrace, NY)",Novelty Shop,Mario Jogi,(212) 555-0100,(212) 555-0101,http://www.wingtiptoys.com/IslipTerrace,Delivery Van,Islip Terrace
+528,"Wingtip Toys (Rich Creek, VA)",Novelty Shop,Kaya ozbek,(276) 555-0100,(276) 555-0101,http://www.wingtiptoys.com/RichCreek,Delivery Van,Rich Creek
+529,"Wingtip Toys (Griswoldville, GA)",Novelty Shop,Seo-yeon Rim,(229) 555-0100,(229) 555-0101,http://www.wingtiptoys.com/Griswoldville,Delivery Van,Griswoldville
+530,"Wingtip Toys (East Mountain, TX)",Novelty Shop,Sitara Benjaree,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/EastMountain,Delivery Van,East Mountain
+531,"Wingtip Toys (Omer, MI)",Novelty Shop,Javier Caraballo,(231) 555-0100,(231) 555-0101,http://www.wingtiptoys.com/Omer,Delivery Van,Omer
+532,"Wingtip Toys (Waycross, GA)",Novelty Shop,Akhtar Shahrestaani,(229) 555-0100,(229) 555-0101,http://www.wingtiptoys.com/Waycross,Delivery Van,Waycross
+533,"Wingtip Toys (Nichols Hills, OK)",Novelty Shop,Vanita Bhowmick,(405) 555-0100,(405) 555-0101,http://www.wingtiptoys.com/NicholsHills,Delivery Van,Nichols Hills
+534,"Wingtip Toys (Plaquemine, LA)",Novelty Shop,Nishant Menon,(225) 555-0100,(225) 555-0101,http://www.wingtiptoys.com/Plaquemine,Delivery Van,Plaquemine
+535,"Wingtip Toys (Triadelphia, WV)",Novelty Shop,Josef Benda,(304) 555-0100,(304) 555-0101,http://www.wingtiptoys.com/Triadelphia,Delivery Van,Triadelphia
+536,"Wingtip Toys (Ferney, SD)",Novelty Shop,Teresa Bender,(605) 555-0100,(605) 555-0101,http://www.wingtiptoys.com/Ferney,Delivery Van,Ferney
+537,"Wingtip Toys (Akhiok, AK)",Novelty Shop,Deepesh Bose,(907) 555-0100,(907) 555-0101,http://www.wingtiptoys.com/Akhiok,Delivery Van,Akhiok
+538,"Wingtip Toys (Deeson, MS)",Novelty Shop,Madhavi Gupta,(228) 555-0100,(228) 555-0101,http://www.wingtiptoys.com/Deeson,Delivery Van,Deeson
+539,"Wingtip Toys (Nuangola, PA)",Novelty Shop,Bich Banh,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/Nuangola,Delivery Van,Nuangola
+540,"Wingtip Toys (Weld, ME)",Novelty Shop,Åšani Nair,(207) 555-0100,(207) 555-0101,http://www.wingtiptoys.com/Weld,Delivery Van,Weld
+541,"Wingtip Toys (Mickleton, NJ)",Novelty Shop,Angelina Gormanston,(201) 555-0100,(201) 555-0101,http://www.wingtiptoys.com/Mickleton,Delivery Van,Mickleton
+542,"Wingtip Toys (Schererville, IN)",Novelty Shop,Prasert Supitayaporn,(219) 555-0100,(219) 555-0101,http://www.wingtiptoys.com/Schererville,Delivery Van,Schererville
+543,"Wingtip Toys (Lexington Heights, MI)",Novelty Shop,Abhaya Rambhatla,(231) 555-0100,(231) 555-0101,http://www.wingtiptoys.com/LexingtonHeights,Delivery Van,Lexington Heights
+544,"Wingtip Toys (Broomtown, AL)",Novelty Shop,Lalit Ogra,(205) 555-0100,(205) 555-0101,http://www.wingtiptoys.com/Broomtown,Delivery Van,Broomtown
+545,"Wingtip Toys (Jamison, IA)",Novelty Shop,Mina Bagheri,(319) 555-0100,(319) 555-0101,http://www.wingtiptoys.com/Jamison,Delivery Van,Jamison
+546,"Wingtip Toys (Key Biscayne, FL)",Novelty Shop,Debraj Sanyal,(239) 555-0100,(239) 555-0101,http://www.wingtiptoys.com/KeyBiscayne,Delivery Van,Key Biscayne
+547,"Wingtip Toys (Chaseley, ND)",Novelty Shop,Marco Costa,(701) 555-0100,(701) 555-0101,http://www.wingtiptoys.com/Chaseley,Delivery Van,Chaseley
+548,"Wingtip Toys (Indian Creek, IL)",Novelty Shop,Crina Nechita,(217) 555-0100,(217) 555-0101,http://www.wingtiptoys.com/IndianCreek,Delivery Van,Indian Creek
+549,"Wingtip Toys (Lake Ronkonkoma, NY)",Novelty Shop,Zala Ibrahimagic,(212) 555-0100,(212) 555-0101,http://www.wingtiptoys.com/LakeRonkonkoma,Delivery Van,Lake Ronkonkoma
+550,"Wingtip Toys (Morrison Bluff, AR)",Novelty Shop,Gundega Kundzina,(479) 555-0100,(479) 555-0101,http://www.wingtiptoys.com/MorrisonBluff,Delivery Van,Morrison Bluff
+551,"Wingtip Toys (Huntingburg, IN)",Novelty Shop,Parveen Haldar,(219) 555-0100,(219) 555-0101,http://www.wingtiptoys.com/Huntingburg,Delivery Van,Huntingburg
+552,"Wingtip Toys (Shay, PA)",Novelty Shop,Noel Cartier,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/Shay,Delivery Van,Shay
+553,"Wingtip Toys (Helotes, TX)",Novelty Shop,Ilgonis Dzenis,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/Helotes,Delivery Van,Helotes
+554,"Wingtip Toys (Hollandsburg, IN)",Novelty Shop,Ondrej Tomek,(219) 555-0100,(219) 555-0101,http://www.wingtiptoys.com/Hollandsburg,Delivery Van,Hollandsburg
+555,"Wingtip Toys (Liberty Grove, MD)",Novelty Shop,Mohini Kaul,(240) 555-0100,(240) 555-0101,http://www.wingtiptoys.com/LibertyGrove,Delivery Van,Liberty Grove
+556,"Wingtip Toys (Morita, TX)",Novelty Shop,Arnab Malakar,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/Morita,Delivery Van,Morita
+557,"Wingtip Toys (New Laguna, NM)",Novelty Shop,Mary Barney,(505) 555-0100,(505) 555-0101,http://www.wingtiptoys.com/NewLaguna,Delivery Van,New Laguna
+558,"Wingtip Toys (Bourneville, OH)",Novelty Shop,Dhaeraemdranaadh Allu,(216) 555-0100,(216) 555-0101,http://www.wingtiptoys.com/Bourneville,Delivery Van,Bourneville
+559,"Wingtip Toys (Mendoza, TX)",Novelty Shop,Paola Greece,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/Mendoza,Delivery Van,Mendoza
+560,"Wingtip Toys (Palmas del Mar, PR)",Novelty Shop,Flora Olofsson,(787) 555-0100,(787) 555-0101,http://www.wingtiptoys.com/PalmasdelMar,Delivery Van,Palmas del Mar
+561,"Wingtip Toys (Marion Junction, AL)",Novelty Shop,Nguyet Bach,(205) 555-0100,(205) 555-0101,http://www.wingtiptoys.com/MarionJunction,Delivery Van,Marion Junction
+562,"Wingtip Toys (Ware Shoals, SC)",Novelty Shop,Jyoti Karnik,(803) 555-0100,(803) 555-0101,http://www.wingtiptoys.com/WareShoals,Delivery Van,Ware Shoals
+563,"Wingtip Toys (Lostine, OR)",Novelty Shop,Samuel Almaraz,(458) 555-0100,(458) 555-0101,http://www.wingtiptoys.com/Lostine,Delivery Van,Lostine
+564,"Wingtip Toys (Tilleda, WI)",Novelty Shop,Zuzana Kuchtova,(262) 555-0100,(262) 555-0101,http://www.wingtiptoys.com/Tilleda,Delivery Van,Tilleda
+565,"Wingtip Toys (Wapiti, WY)",Novelty Shop,Mark Ruutel,(307) 555-0100,(307) 555-0101,http://www.wingtiptoys.com/Wapiti,Delivery Van,Wapiti
+566,"Wingtip Toys (Amado, AZ)",Novelty Shop,Corneliu Vladu,(480) 555-0100,(480) 555-0101,http://www.wingtiptoys.com/Amado,Delivery Van,Amado
+567,"Wingtip Toys (Jeromesville, OH)",Novelty Shop,Severins Polis,(216) 555-0100,(216) 555-0101,http://www.wingtiptoys.com/Jeromesville,Delivery Van,Jeromesville
+568,"Wingtip Toys (Ovilla, TX)",Novelty Shop,Linda Ledezma,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/Ovilla,Delivery Van,Ovilla
+569,"Wingtip Toys (West Frostproof, FL)",Novelty Shop,Halit Gunes,(239) 555-0100,(239) 555-0101,http://www.wingtiptoys.com/WestFrostproof,Delivery Van,West Frostproof
+570,"Wingtip Toys (Flomaton, AL)",Novelty Shop,Vallo Vesik,(205) 555-0100,(205) 555-0101,http://www.wingtiptoys.com/Flomaton,Delivery Van,Flomaton
+571,"Wingtip Toys (Pawlet, VT)",Novelty Shop,Dana Mrazova,(802) 555-0100,(802) 555-0101,http://www.wingtiptoys.com/Pawlet,Delivery Van,Pawlet
+572,"Wingtip Toys (Trout Run, PA)",Novelty Shop,Ema Slosar,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/TroutRun,Delivery Van,Trout Run
+573,"Wingtip Toys (Marin City, CA)",Novelty Shop,Hemchandra Debnath,(209) 555-0100,(209) 555-0101,http://www.wingtiptoys.com/MarinCity,Delivery Van,Marin City
+574,"Wingtip Toys (Molalla, OR)",Novelty Shop,Monika Valentova,(458) 555-0100,(458) 555-0101,http://www.wingtiptoys.com/Molalla,Delivery Van,Molalla
+575,"Wingtip Toys (Trumansburg, NY)",Novelty Shop,Dattaatraeya Tottempudi,(212) 555-0100,(212) 555-0101,http://www.wingtiptoys.com/Trumansburg,Delivery Van,Trumansburg
+576,"Wingtip Toys (Goodings Grove, IL)",Novelty Shop,Kahkushan Shakiba,(217) 555-0100,(217) 555-0101,http://www.wingtiptoys.com/GoodingsGrove,Delivery Van,Goodings Grove
+577,"Wingtip Toys (Cherryplain, NY)",Novelty Shop,Taner YÄ±lmaz,(212) 555-0100,(212) 555-0101,http://www.wingtiptoys.com/Cherryplain,Delivery Van,Cherryplain
+578,"Wingtip Toys (Bell Acres, PA)",Novelty Shop,Abhra Thakur,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/BellAcres,Delivery Van,Bell Acres
+579,"Wingtip Toys (Connoquenessing, PA)",Novelty Shop,Dunja Radoncis,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/Connoquenessing,Delivery Van,Connoquenessing
+580,"Wingtip Toys (Sarversville, PA)",Novelty Shop,Darakhshan Javaherian,(215) 555-0100,(215) 555-0101,http://www.wingtiptoys.com/Sarversville,Delivery Van,Sarversville
+581,"Wingtip Toys (Munich, ND)",Novelty Shop,Youssef Eriksson,(701) 555-0100,(701) 555-0101,http://www.wingtiptoys.com/Munich,Delivery Van,Munich
+582,"Wingtip Toys (Montoya, NM)",Novelty Shop,Pavel Bohuslav,(505) 555-0100,(505) 555-0101,http://www.wingtiptoys.com/Montoya,Delivery Van,Montoya
+583,"Wingtip Toys (Knights Landing, CA)",Novelty Shop,Jiri Vacha,(209) 555-0100,(209) 555-0101,http://www.wingtiptoys.com/KnightsLanding,Delivery Van,Knights Landing
+584,"Wingtip Toys (Cache, OK)",Novelty Shop,Magdalena Cervenkova,(405) 555-0100,(405) 555-0101,http://www.wingtiptoys.com/Cache,Delivery Van,Cache
+585,"Wingtip Toys (Towaco, NJ)",Novelty Shop,Asha Mudigonda,(201) 555-0100,(201) 555-0101,http://www.wingtiptoys.com/Towaco,Delivery Van,Towaco
+586,"Wingtip Toys (Lynne, FL)",Novelty Shop,Anete Kundzina,(239) 555-0100,(239) 555-0101,http://www.wingtiptoys.com/Lynne,Delivery Van,Lynne
+587,"Wingtip Toys (Plata, TX)",Novelty Shop,Daniela Sal,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/Plata,Delivery Van,Plata
+588,"Wingtip Toys (Oak Point, TX)",Novelty Shop,Duangrat Atitarn,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/OakPoint,Delivery Van,Oak Point
+589,"Wingtip Toys (Alcester, SD)",Novelty Shop,Deviprasad PrabhupÄda,(605) 555-0100,(605) 555-0101,http://www.wingtiptoys.com/Alcester,Delivery Van,Alcester
+590,"Wingtip Toys (McAdenville, NC)",Novelty Shop,Aija Lukstina,(252) 555-0100,(252) 555-0101,http://www.wingtiptoys.com/McAdenville,Delivery Van,McAdenville
+591,"Wingtip Toys (Idaho City, ID)",Novelty Shop,Hoc Le,(208) 555-0100,(208) 555-0101,http://www.wingtiptoys.com/IdahoCity,Delivery Van,Idaho City
+592,"Wingtip Toys (Dunkerton, IA)",Novelty Shop,Bhairaam Kidambi,(319) 555-0100,(319) 555-0101,http://www.wingtiptoys.com/Dunkerton,Delivery Van,Dunkerton
+593,"Wingtip Toys (Cuyamungue, NM)",Novelty Shop,Jae-Hwa Shin,(505) 555-0100,(505) 555-0101,http://www.wingtiptoys.com/Cuyamungue,Delivery Van,Cuyamungue
+594,"Wingtip Toys (Marfa, TX)",Novelty Shop,Caterina Fallaci,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/Marfa,Delivery Van,Marfa
+595,"Wingtip Toys (Accomac, VA)",Novelty Shop,Baanuraekha Voleti,(276) 555-0100,(276) 555-0101,http://www.wingtiptoys.com/Accomac,Delivery Van,Accomac
+596,"Wingtip Toys (Cos Cob, CT)",Novelty Shop,Ranjeet Haldar,(203) 555-0100,(203) 555-0101,http://www.wingtiptoys.com/CosCob,Delivery Van,Cos Cob
+597,"Wingtip Toys (Haycock, AK)",Novelty Shop,Bhaamini Kanaparthi,(907) 555-0100,(907) 555-0101,http://www.wingtiptoys.com/Haycock,Delivery Van,Haycock
+598,"Wingtip Toys (Kapa'a, HI)",Novelty Shop,Margit Molnar,(808) 555-0100,(808) 555-0101,http://www.wingtiptoys.com/Kapa'a,Delivery Van,Kapa'a
+599,"Wingtip Toys (Dickworsham, TX)",Novelty Shop,Chandni Jandhyala,(210) 555-0100,(210) 555-0101,http://www.wingtiptoys.com/Dickworsham,Delivery Van,Dickworsham
+600,"Wingtip Toys (Caro, MI)",Novelty Shop,Ljubomir Nesic,(231) 555-0100,(231) 555-0101,http://www.wingtiptoys.com/Caro,Delivery Van,Caro
+601,"Wingtip Toys (Ruthsburg, MD)",Novelty Shop,Telma Hermansson,(240) 555-0100,(240) 555-0101,http://www.wingtiptoys.com/Ruthsburg,Delivery Van,Ruthsburg
+801,Eric Torres,Corporate,Eric Torres,(307) 555-0100,(307) 555-0101,http://www.microsoft.com/EricTorres/,Delivery Van,Shell
+802,Cosmina Vlad,Corporate,Cosmina Vlad,(505) 555-0100,(505) 555-0101,http://www.microsoft.com/CosminaVlad/,Delivery Van,Cañon
+803,Bala Dixit,Novelty Shop,Bala Dixit,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/BalaDixit/,Delivery Van,Termo
+804,Aleksandrs Riekstins,Computer Store,Aleksandrs Riekstins,(605) 555-0100,(605) 555-0101,http://www.microsoft.com/AleksandrsRiekstins/,Delivery Van,La Bolt
+805,Ratan Poddar,Novelty Shop,Ratan Poddar,(907) 555-0100,(907) 555-0101,http://www.microsoft.com/RatanPoddar/,Delivery Van,Ekwok
+806,Shi Tu,Novelty Shop,Shi Tu,(307) 555-0100,(307) 555-0101,http://www.microsoft.com/ShiTu/,Delivery Van,Sinclair
+807,Gunnar Lohmus,Gift Store,Gunnar Lohmus,(201) 555-0100,(201) 555-0101,http://www.microsoft.com/GunnarLohmus/,Delivery Van,Wanaque
+808,Jackson Kolios,Computer Store,Jackson Kolios,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/JacksonKolios/,Delivery Van,Rail Road Flat
+809,Madhu Dwivedi,Computer Store,Madhu Dwivedi,(802) 555-0100,(802) 555-0101,http://www.microsoft.com/MadhuDwivedi/,Delivery Van,Panton
+810,Alena Kellnerova,Corporate,Alena Kellnerova,(303) 555-0100,(303) 555-0101,http://www.microsoft.com/AlenaKellnerova/,Delivery Van,Segundo
+811,Surendra Sahu,Novelty Shop,Surendra Sahu,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/SurendraSahu/,Delivery Van,Old River-Winfree
+812,Celica Barajas,Supermarket,Celica Barajas,(270) 555-0100,(270) 555-0101,http://www.microsoft.com/CelicaBarajas/,Delivery Van,Drakesboro
+813,Shyam Poddar,Corporate,Shyam Poddar,(218) 555-0100,(218) 555-0101,http://www.microsoft.com/ShyamPoddar/,Delivery Van,Tenstrike
+814,Johanna Hoornstra,Novelty Shop,Johanna Hoornstra,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/JohannaHoornstra/,Delivery Van,Petronila
+815,Libuse Valentova,Novelty Shop,Libuse Valentova,(270) 555-0100,(270) 555-0101,http://www.microsoft.com/LibuseValentova/,Delivery Van,Elkatawa
+816,Harsha Huq,Gift Store,Harsha Huq,(314) 555-0100,(314) 555-0101,http://www.microsoft.com/HarshaHuq/,Delivery Van,Dennis Acres
+817,Agrita Kanepa,Supermarket,Agrita Kanepa,(201) 555-0100,(201) 555-0101,http://www.microsoft.com/AgritaKanepa/,Delivery Van,Branchburg Park
+818,Liia Orav,Novelty Shop,Liia Orav,(252) 555-0100,(252) 555-0101,http://www.microsoft.com/LiiaOrav/,Delivery Van,Bladenboro
+819,Santiago Vera,Computer Store,Santiago Vera,(304) 555-0100,(304) 555-0101,http://www.microsoft.com/SantiagoVera/,Delivery Van,Nitro
+820,Knut Svensson,Computer Store,Knut Svensson,(201) 555-0100,(201) 555-0101,http://www.microsoft.com/KnutSvensson/,Delivery Van,Madison Park
+821,Kwanjai Saowaluk,Supermarket,Kwanjai Saowaluk,(787) 555-0100,(787) 555-0101,http://www.microsoft.com/KwanjaiSaowaluk/,Delivery Van,Cataño
+822,Suparna Bhattacharya,Supermarket,Suparna Bhattacharya,(314) 555-0100,(314) 555-0101,http://www.microsoft.com/SuparnaBhattacharya/,Delivery Van,Tiff City
+823,Francisca Laureano,Gift Store,Francisca Laureano,(319) 555-0100,(319) 555-0101,http://www.microsoft.com/FranciscaLaureano/,Delivery Van,Jolley
+824,Risto Valbe,Supermarket,Risto Valbe,(205) 555-0100,(205) 555-0101,http://www.microsoft.com/RistoValbe/,Delivery Van,Bazemore
+825,Jayanta Thakur,Gift Store,Jayanta Thakur,(276) 555-0100,(276) 555-0101,http://www.microsoft.com/JayantaThakur/,Delivery Van,Raven
+826,Leila Carvalho,Novelty Shop,Leila Carvalho,(217) 555-0100,(217) 555-0101,http://www.microsoft.com/LeilaCarvalho/,Delivery Van,Spillertown
+827,Crina Grasu,Computer Store,Crina Grasu,(308) 555-0100,(308) 555-0101,http://www.microsoft.com/CrinaGrasu/,Delivery Van,Tamora
+828,Sercan Celik,Gift Store,Sercan Celik,(217) 555-0100,(217) 555-0101,http://www.microsoft.com/SercanCelik/,Delivery Van,Tolono
+829,Jack Walker,Supermarket,Jack Walker,(316) 555-0100,(316) 555-0101,http://www.microsoft.com/JackWalker/,Delivery Van,Elbing
+830,Jana Fialova,Novelty Shop,Jana Fialova,(215) 555-0100,(215) 555-0101,http://www.microsoft.com/JanaFialova/,Delivery Van,Weigelstown
+831,Bhaavan Rai,Corporate,Bhaavan Rai,(308) 555-0100,(308) 555-0101,http://www.microsoft.com/BhaavanRai/,Delivery Van,Chalco
+832,Aakriti Byrraju,Supermarket,Aakriti Byrraju,(216) 555-0100,(216) 555-0101,http://www.microsoft.com/AakritiByrraju/,Delivery Van,Glenwillow
+833,Devraj Rao,Novelty Shop,Devraj Rao,(385) 555-0100,(385) 555-0101,http://www.microsoft.com/DevrajRao/,Delivery Van,Westwater
+834,Cong Hoa,Gift Store,Cong Hoa,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/CongHoa/,Delivery Van,Palatine Bridge
+835,Dominic Davignon,Supermarket,Dominic Davignon,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/DominicDavignon/,Delivery Van,Twin Peaks
+836,Abel Spirlea,Novelty Shop,Abel Spirlea,(218) 555-0100,(218) 555-0101,http://www.microsoft.com/AbelSpirlea/,Delivery Van,Markville
+837,Anil Sarkar,Supermarket,Anil Sarkar,(215) 555-0100,(215) 555-0101,http://www.microsoft.com/AnilSarkar/,Delivery Van,Gardners
+838,Pavel Bogdanov,Corporate,Pavel Bogdanov,(339) 555-0100,(339) 555-0101,http://www.microsoft.com/PavelBogdanov/,Delivery Van,New Braintree
+839,Juan Morse,Novelty Shop,Juan Morse,(423) 555-0100,(423) 555-0101,http://www.microsoft.com/JuanMorse/,Delivery Van,Greenback
+840,Rodrigo Figueiredo,Novelty Shop,Rodrigo Figueiredo,(803) 555-0100,(803) 555-0101,http://www.microsoft.com/RodrigoFigueiredo/,Delivery Van,Blackville
+841,Camille Authier,Gift Store,Camille Authier,(252) 555-0100,(252) 555-0101,http://www.microsoft.com/CamilleAuthier/,Delivery Van,Abbottsburg
+842,Biju Deb,Gift Store,Biju Deb,(218) 555-0100,(218) 555-0101,http://www.microsoft.com/BijuDeb/,Delivery Van,Deer River
+843,Marija Justina Pasek,Corporate,Marija Justina Pasek,(215) 555-0100,(215) 555-0101,http://www.microsoft.com/MarijaJustinaPasek/,Delivery Van,Marguerite
+844,Durdanah Abbasi,Supermarket,Durdanah Abbasi,(201) 555-0100,(201) 555-0101,http://www.microsoft.com/DurdanahAbbasi/,Delivery Van,Laurence Harbor
+845,Emilie Hrdlickova,Corporate,Emilie Hrdlickova,(803) 555-0100,(803) 555-0101,http://www.microsoft.com/EmilieHrdlickova/,Delivery Van,New Zion
+846,Malorie Bousquet,Gift Store,Malorie Bousquet,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/MalorieBousquet/,Delivery Van,Valley View Park
+847,Kristiina Ivanov,Computer Store,Kristiina Ivanov,(605) 555-0100,(605) 555-0101,http://www.microsoft.com/KristiinaIvanov/,Delivery Van,Wounded Knee
+848,Alvin Bollinger,Computer Store,Alvin Bollinger,(270) 555-0100,(270) 555-0101,http://www.microsoft.com/AlvinBollinger/,Delivery Van,Creelsboro
+849,Sabine Zalite,Supermarket,Sabine Zalite,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/SabineZalite/,Delivery Van,Haltom City
+850,Daakshaayaani Sankaramanchi,Gift Store,Daakshaayaani Sankaramanchi,(319) 555-0100,(319) 555-0101,http://www.microsoft.com/DaakshaayaaniSankaramanchi/,Delivery Van,Spillville
+851,Ebru Erdogan,Gift Store,Ebru Erdogan,(405) 555-0100,(405) 555-0101,http://www.microsoft.com/EbruErdogan/,Delivery Van,Seiling
+852,Bhagavaan Atluri,Supermarket,Bhagavaan Atluri,(229) 555-0100,(229) 555-0101,http://www.microsoft.com/BhagavaanAtluri/,Delivery Van,Coosa
+853,Caterina Pinto,Gift Store,Caterina Pinto,(907) 555-0100,(907) 555-0101,http://www.microsoft.com/CaterinaPinto/,Delivery Van,Akhiok
+854,Daakshaayaani Kommineni,Novelty Shop,Daakshaayaani Kommineni,(239) 555-0100,(239) 555-0101,http://www.microsoft.com/DaakshaayaaniKommineni/,Delivery Van,Bakers Mill
+855,Anna Mazzanti,Computer Store,Anna Mazzanti,(314) 555-0100,(314) 555-0101,http://www.microsoft.com/AnnaMazzanti/,Delivery Van,Humansville
+856,Satish Mittal,Corporate,Satish Mittal,(215) 555-0100,(215) 555-0101,http://www.microsoft.com/SatishMittal/,Delivery Van,Dry Run
+857,Clarissa Manfrin,Gift Store,Clarissa Manfrin,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/ClarissaManfrin/,Delivery Van,Ben Arnold
+858,Bimla PrabhupÄda,Novelty Shop,Bimla PrabhupÄda,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/BimlaPrabhupÄda/,Delivery Van,Yermo
+859,Shah Alizadeh,Gift Store,Shah Alizadeh,(304) 555-0100,(304) 555-0101,http://www.microsoft.com/ShahAlizadeh/,Delivery Van,Gassaway
+860,Marcela Lucescu,Corporate,Marcela Lucescu,(231) 555-0100,(231) 555-0101,http://www.microsoft.com/MarcelaLucescu/,Delivery Van,Ewen
+861,Amarasimha Vinjamuri,Supermarket,Amarasimha Vinjamuri,(339) 555-0100,(339) 555-0101,http://www.microsoft.com/AmarasimhaVinjamuri/,Delivery Van,North Brookfield
+862,Lana Goransson,Supermarket,Lana Goransson,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/LanaGoransson/,Delivery Van,Chateaugay
+863,Jakub Lukes,Corporate,Jakub Lukes,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/JakubLukes/,Delivery Van,Eagle Valley
+864,Mikhail Degtyarev,Computer Store,Mikhail Degtyarev,(218) 555-0100,(218) 555-0101,http://www.microsoft.com/MikhailDegtyarev/,Delivery Van,Beaver Bay
+865,Bijoya Thakur,Gift Store,Bijoya Thakur,(225) 555-0100,(225) 555-0101,http://www.microsoft.com/BijoyaThakur/,Delivery Van,Kinder
+866,Jay Bhuiyan,Gift Store,Jay Bhuiyan,(215) 555-0100,(215) 555-0101,http://www.microsoft.com/JayBhuiyan/,Delivery Van,Mount Pocono
+867,Jasna Cerkez,Computer Store,Jasna Cerkez,(304) 555-0100,(304) 555-0101,http://www.microsoft.com/JasnaCerkez/,Delivery Van,Elk Garden
+868,Laura Sykorova,Novelty Shop,Laura Sykorova,(316) 555-0100,(316) 555-0101,http://www.microsoft.com/LauraSykorova/,Delivery Van,Coyville
+869,Abel Tatarescu,Novelty Shop,Abel Tatarescu,(217) 555-0100,(217) 555-0101,http://www.microsoft.com/AbelTatarescu/,Delivery Van,La Grange Park
+870,In-Su Bae,Gift Store,In-Su Bae,(206) 555-0100,(206) 555-0101,http://www.microsoft.com/In-SuBae/,Delivery Van,Meadowdale
+871,Darshana Madhunapantula,Computer Store,Darshana Madhunapantula,(240) 555-0100,(240) 555-0101,http://www.microsoft.com/DarshanaMadhunapantula/,Delivery Van,Tolchester Beach
+872,Katerina Hadrabova,Corporate,Katerina Hadrabova,(219) 555-0100,(219) 555-0101,http://www.microsoft.com/KaterinaHadrabova/,Delivery Van,La Paz
+873,Hana Hlouskova,Supermarket,Hana Hlouskova,(505) 555-0100,(505) 555-0101,http://www.microsoft.com/HanaHlouskova/,Delivery Van,Moquino
+874,Daniel Martensson,Novelty Shop,Daniel Martensson,(225) 555-0100,(225) 555-0101,http://www.microsoft.com/DanielMartensson/,Delivery Van,Mamou
+875,Philip Walker,Novelty Shop,Philip Walker,(216) 555-0100,(216) 555-0101,http://www.microsoft.com/PhilipWalker/,Delivery Van,Waite Hill
+876,Marie LeBatelier,Novelty Shop,Marie LeBatelier,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/MarieLeBatelier/,Delivery Van,Coupland
+877,Leyla Siavashi,Gift Store,Leyla Siavashi,(201) 555-0100,(201) 555-0101,http://www.microsoft.com/LeylaSiavashi/,Delivery Van,Marcella
+878,Miriam House,Corporate,Miriam House,(701) 555-0100,(701) 555-0101,http://www.microsoft.com/MiriamHouse/,Delivery Van,Makoti
+879,Jitka Necesana,Computer Store,Jitka Necesana,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/JitkaNecesana/,Delivery Van,Conesus Lake
+880,Edmee Glissen,Computer Store,Edmee Glissen,(208) 555-0100,(208) 555-0101,http://www.microsoft.com/EdmeeGlissen/,Delivery Van,McCammon
+881,Magdalena Michnova,Computer Store,Magdalena Michnova,(907) 555-0100,(907) 555-0101,http://www.microsoft.com/MagdalenaMichnova/,Delivery Van,Wrangell
+882,Maryann Huddleston,Gift Store,Maryann Huddleston,(304) 555-0100,(304) 555-0101,http://www.microsoft.com/MaryannHuddleston/,Delivery Van,Robertsburg
+883,Radha Barua,Gift Store,Radha Barua,(405) 555-0100,(405) 555-0101,http://www.microsoft.com/RadhaBarua/,Delivery Van,McQueen
+884,Anindya Ghatak,Computer Store,Anindya Ghatak,(219) 555-0100,(219) 555-0101,http://www.microsoft.com/AnindyaGhatak/,Delivery Van,Switz City
+885,Chandrashekhar Dasgupta,Corporate,Chandrashekhar Dasgupta,(208) 555-0100,(208) 555-0101,http://www.microsoft.com/ChandrashekharDasgupta/,Delivery Van,New Plymouth
+886,Debbie Molina,Supermarket,Debbie Molina,(270) 555-0100,(270) 555-0101,http://www.microsoft.com/DebbieMolina/,Delivery Van,Garlin
+887,Baran Jonsson,Supermarket,Baran Jonsson,(458) 555-0100,(458) 555-0101,http://www.microsoft.com/BaranJonsson/,Delivery Van,Cave Junction
+888,Jai Lamble,Corporate,Jai Lamble,(479) 555-0100,(479) 555-0101,http://www.microsoft.com/JaiLamble/,Delivery Van,Grider
+889,Sointu Savonheimo,Gift Store,Sointu Savonheimo,(701) 555-0100,(701) 555-0101,http://www.microsoft.com/SointuSavonheimo/,Delivery Van,Argusville
+890,Olya Izmaylov,Computer Store,Olya Izmaylov,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/OlyaIzmaylov/,Delivery Van,Flowella
+891,Taneli Riutta,Supermarket,Taneli Riutta,(276) 555-0100,(276) 555-0101,http://www.microsoft.com/TaneliRiutta/,Delivery Van,Sandy Level
+892,Bahaar Asef zade,Supermarket,Bahaar Asef zade,(225) 555-0100,(225) 555-0101,http://www.microsoft.com/BahaarAsefzade/,Delivery Van,Alden Bridge
+893,Leyla Asef zade,Novelty Shop,Leyla Asef zade,(216) 555-0100,(216) 555-0101,http://www.microsoft.com/LeylaAsefzade/,Delivery Van,West Elkton
+894,Gabriela Hernandes,Corporate,Gabriela Hernandes,(239) 555-0100,(239) 555-0101,http://www.microsoft.com/GabrielaHernandes/,Delivery Van,Cypress Quarters
+895,Geza Roman,Corporate,Geza Roman,(215) 555-0100,(215) 555-0101,http://www.microsoft.com/GezaRoman/,Delivery Van,Oval
+896,Leonardo Folliero,Supermarket,Leonardo Folliero,(339) 555-0100,(339) 555-0101,http://www.microsoft.com/LeonardoFolliero/,Delivery Van,Cotuit
+897,Allan Mannik,Corporate,Allan Mannik,(218) 555-0100,(218) 555-0101,http://www.microsoft.com/AllanMannik/,Delivery Van,Lake Crystal
+898,Gopalgobinda Sikdar,Computer Store,Gopalgobinda Sikdar,(307) 555-0100,(307) 555-0101,http://www.microsoft.com/GopalgobindaSikdar/,Delivery Van,Orpha
+899,Chin-Sun Chang,Corporate,Chin-Sun Chang,(605) 555-0100,(605) 555-0101,http://www.microsoft.com/Chin-SunChang/,Delivery Van,Capa
+900,Lilli Sokk,Gift Store,Lilli Sokk,(229) 555-0100,(229) 555-0101,http://www.microsoft.com/LilliSokk/,Delivery Van,Gresston
+901,Adrian Andreasson,Corporate,Adrian Andreasson,(217) 555-0100,(217) 555-0101,http://www.microsoft.com/AdrianAndreasson/,Delivery Van,Du Quoin
+902,Kamila Michnova,Supermarket,Kamila Michnova,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/KamilaMichnova/,Delivery Van,The Colony
+903,Bing Han,Computer Store,Bing Han,(228) 555-0100,(228) 555-0101,http://www.microsoft.com/BingHan/,Delivery Van,Darling
+904,Olafs Rozitis,Corporate,Olafs Rozitis,(316) 555-0100,(316) 555-0101,http://www.microsoft.com/OlafsRozitis/,Delivery Van,Sherwin
+905,Sara Huiting,Supermarket,Sara Huiting,(218) 555-0100,(218) 555-0101,http://www.microsoft.com/SaraHuiting/,Delivery Van,Bock
+906,Ajitaab Pakalapati,Computer Store,Ajitaab Pakalapati,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/AjitaabPakalapati/,Delivery Van,Caruthers
+907,Eugen Agafitei,Supermarket,Eugen Agafitei,(252) 555-0100,(252) 555-0101,http://www.microsoft.com/EugenAgafitei/,Delivery Van,Shawboro
+908,Sumati Bhat,Novelty Shop,Sumati Bhat,(206) 555-0100,(206) 555-0101,http://www.microsoft.com/SumatiBhat/,Delivery Van,Harbour Pointe
+909,Dena Glissen,Supermarket,Dena Glissen,(316) 555-0100,(316) 555-0101,http://www.microsoft.com/DenaGlissen/,Delivery Van,Coffeyville
+910,Elina Kaleja,Gift Store,Elina Kaleja,(225) 555-0100,(225) 555-0101,http://www.microsoft.com/ElinaKaleja/,Delivery Van,Golden Meadow
+911,Liidia Lepp,Gift Store,Liidia Lepp,(276) 555-0100,(276) 555-0101,http://www.microsoft.com/LiidiaLepp/,Delivery Van,Oakpark
+912,Volkan senturk,Computer Store,Volkan senturk,(276) 555-0100,(276) 555-0101,http://www.microsoft.com/Volkansenturk/,Delivery Van,Wyndham
+913,Violetta KlanCisar,Supermarket,Violetta KlanCisar,(225) 555-0100,(225) 555-0101,http://www.microsoft.com/ViolettaKlanCisar/,Delivery Van,Bayou Cane
+914,Chandana Shasthri,Supermarket,Chandana Shasthri,(803) 555-0100,(803) 555-0101,http://www.microsoft.com/ChandanaShasthri/,Delivery Van,Nesmith
+915,Ana Florea,Corporate,Ana Florea,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/AnaFlorea/,Delivery Van,Buchanan Lake Village
+916,Pinja Jantunen,Gift Store,Pinja Jantunen,(308) 555-0100,(308) 555-0101,http://www.microsoft.com/PinjaJantunen/,Delivery Van,Nehawka
+917,Pari Hosseini,Novelty Shop,Pari Hosseini,(505) 555-0100,(505) 555-0101,http://www.microsoft.com/PariHosseini/,Delivery Van,Soham
+918,Isidora Morales,Novelty Shop,Isidora Morales,(406) 555-0100,(406) 555-0101,http://www.microsoft.com/IsidoraMorales/,Delivery Van,Twodot
+919,Kertu Sokk,Computer Store,Kertu Sokk,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/KertuSokk/,Delivery Van,Greig
+920,Gayatri Gajula,Computer Store,Gayatri Gajula,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/GayatriGajula/,Delivery Van,Shenorock
+921,Victoria Lacusta,Supermarket,Victoria Lacusta,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/VictoriaLacusta/,Delivery Van,Conewango
+922,Sumati Chatterjee,Gift Store,Sumati Chatterjee,(231) 555-0100,(231) 555-0101,http://www.microsoft.com/SumatiChatterjee/,Delivery Van,North Muskegon
+923,Tai Bach,Novelty Shop,Tai Bach,(219) 555-0100,(219) 555-0101,http://www.microsoft.com/TaiBach/,Delivery Van,Fortville
+924,Eva Schulteisz,Novelty Shop,Eva Schulteisz,(252) 555-0100,(252) 555-0101,http://www.microsoft.com/EvaSchulteisz/,Delivery Van,Hightsville
+925,Can ozcan,Corporate,Can ozcan,(215) 555-0100,(215) 555-0101,http://www.microsoft.com/Canozcan/,Delivery Van,Oley
+926,Richard Friar,Corporate,Richard Friar,(339) 555-0100,(339) 555-0101,http://www.microsoft.com/RichardFriar/,Delivery Van,North Eastham
+927,Matyas Sedlar,Novelty Shop,Matyas Sedlar,(270) 555-0100,(270) 555-0101,http://www.microsoft.com/MatyasSedlar/,Delivery Van,Calvert City
+928,Arijit Bhuiyan,Computer Store,Arijit Bhuiyan,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/ArijitBhuiyan/,Delivery Van,Esopus
+929,Vladimir Henzl,Supermarket,Vladimir Henzl,(907) 555-0100,(907) 555-0101,http://www.microsoft.com/VladimirHenzl/,Delivery Van,Port Chilkoot
+930,Shantanu Huq,Gift Store,Shantanu Huq,(252) 555-0100,(252) 555-0101,http://www.microsoft.com/ShantanuHuq/,Delivery Van,Cramerton
+931,Nada Jovanovic,Corporate,Nada Jovanovic,(215) 555-0100,(215) 555-0101,http://www.microsoft.com/NadaJovanovic/,Delivery Van,North York
+932,Nicolo Cattaneo,Corporate,Nicolo Cattaneo,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/NicoloCattaneo/,Delivery Van,Schoharie
+933,Joel Carrillo,Computer Store,Joel Carrillo,(405) 555-0100,(405) 555-0101,http://www.microsoft.com/JoelCarrillo/,Delivery Van,Drumright
+934,Ivan Sepulveda,Novelty Shop,Ivan Sepulveda,(218) 555-0100,(218) 555-0101,http://www.microsoft.com/IvanSepulveda/,Delivery Van,Northrop
+935,Daevasree Samavedam,Corporate,Daevasree Samavedam,(201) 555-0100,(201) 555-0101,http://www.microsoft.com/DaevasreeSamavedam/,Delivery Van,Golf View
+936,Ludmila Smidova,Novelty Shop,Ludmila Smidova,(480) 555-0100,(480) 555-0101,http://www.microsoft.com/LudmilaSmidova/,Delivery Van,Tempe
+937,Manca Hrastovsek,Gift Store,Manca Hrastovsek,(205) 555-0100,(205) 555-0101,http://www.microsoft.com/MancaHrastovsek/,Delivery Van,Southside
+938,Anna Gyarmathi,Novelty Shop,Anna Gyarmathi,(252) 555-0100,(252) 555-0101,http://www.microsoft.com/AnnaGyarmathi/,Delivery Van,Kannapolis
+939,Ioana Florea,Supermarket,Ioana Florea,(339) 555-0100,(339) 555-0101,http://www.microsoft.com/IoanaFlorea/,Delivery Van,Nahant
+940,Lorin Astrom,Gift Store,Lorin Astrom,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/LorinAstrom/,Delivery Van,Port Alto
+941,Bishwa Chatterjee,Novelty Shop,Bishwa Chatterjee,(239) 555-0100,(239) 555-0101,http://www.microsoft.com/BishwaChatterjee/,Delivery Van,Lake Clarke Shores
+942,Chaayaadaevi Sonti,Corporate,Chaayaadaevi Sonti,(217) 555-0100,(217) 555-0101,http://www.microsoft.com/ChaayaadaeviSonti/,Delivery Van,Roachtown
+943,Drazenka Jelic,Novelty Shop,Drazenka Jelic,(803) 555-0100,(803) 555-0101,http://www.microsoft.com/DrazenkaJelic/,Delivery Van,Cherry Grove Beach
+944,Ida Celma,Novelty Shop,Ida Celma,(319) 555-0100,(319) 555-0101,http://www.microsoft.com/IdaCelma/,Delivery Van,Hawarden
+945,Hoc Tran,Computer Store,Hoc Tran,(339) 555-0100,(339) 555-0101,http://www.microsoft.com/HocTran/,Delivery Van,White Horse Beach
+946,David safranek,Supermarket,David safranek,(215) 555-0100,(215) 555-0101,http://www.microsoft.com/Davidsafranek/,Delivery Van,Toughkenamon
+947,Svetlana Todorovic,Supermarket,Svetlana Todorovic,(206) 555-0100,(206) 555-0101,http://www.microsoft.com/SvetlanaTodorovic/,Delivery Van,Venersborg
+948,Richard Zahradnicek,Supermarket,Richard Zahradnicek,(314) 555-0100,(314) 555-0101,http://www.microsoft.com/RichardZahradnicek/,Delivery Van,Jane
+949,Seo-yun Paik,Corporate,Seo-yun Paik,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/Seo-yunPaik/,Delivery Van,Jones Creek
+950,Emily Whittle,Corporate,Emily Whittle,(231) 555-0100,(231) 555-0101,http://www.microsoft.com/EmilyWhittle/,Delivery Van,Huntington Woods
+951,Eliza Persson,Supermarket,Eliza Persson,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/ElizaPersson/,Delivery Van,Jesmond Dene
+952,Chuan Wattanasin,Novelty Shop,Chuan Wattanasin,(217) 555-0100,(217) 555-0101,http://www.microsoft.com/ChuanWattanasin/,Delivery Van,Flanagan
+953,Linh Dao,Supermarket,Linh Dao,(228) 555-0100,(228) 555-0101,http://www.microsoft.com/LinhDao/,Delivery Van,Mashulaville
+954,Nasrin Omidzadeh,Supermarket,Nasrin Omidzadeh,(239) 555-0100,(239) 555-0101,http://www.microsoft.com/NasrinOmidzadeh/,Delivery Van,Mary Esther
+955,Raghu Sandhu,Novelty Shop,Raghu Sandhu,(240) 555-0100,(240) 555-0101,http://www.microsoft.com/RaghuSandhu/,Delivery Van,Bowleys Quarters
+956,Nhung Thach,Computer Store,Nhung Thach,(480) 555-0100,(480) 555-0101,http://www.microsoft.com/NhungThach/,Delivery Van,Red Mesa
+957,Hee-Young Suh,Novelty Shop,Hee-Young Suh,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/Hee-YoungSuh/,Delivery Van,Nicasio
+958,Valentin Tirlea,Gift Store,Valentin Tirlea,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/ValentinTirlea/,Delivery Van,Pharr
+959,Dhaatri Chavva,Novelty Shop,Dhaatri Chavva,(207) 555-0100,(207) 555-0101,http://www.microsoft.com/DhaatriChavva/,Delivery Van,Edgecomb
+960,Edgar Jogi,Computer Store,Edgar Jogi,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/EdgarJogi/,Delivery Van,Bombay Beach
+961,Rani Ganguly,Gift Store,Rani Ganguly,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/RaniGanguly/,Delivery Van,Arrowhead Highlands
+962,Bhagavati Vinjamuri,Supermarket,Bhagavati Vinjamuri,(319) 555-0100,(319) 555-0101,http://www.microsoft.com/BhagavatiVinjamuri/,Delivery Van,Ewart
+963,Be Trang,Corporate,Be Trang,(405) 555-0100,(405) 555-0101,http://www.microsoft.com/BeTrang/,Delivery Van,Watonga
+964,Ingrida Zeltina,Supermarket,Ingrida Zeltina,(239) 555-0100,(239) 555-0101,http://www.microsoft.com/IngridaZeltina/,Delivery Van,Trilby
+965,Phoung Cu,Corporate,Phoung Cu,(208) 555-0100,(208) 555-0101,http://www.microsoft.com/PhoungCu/,Delivery Van,McCall
+966,Sara Walkky,Supermarket,Sara Walkky,(303) 555-0100,(303) 555-0101,http://www.microsoft.com/SaraWalkky/,Delivery Van,Chipita Park
+967,Meera Patel,Gift Store,Meera Patel,(217) 555-0100,(217) 555-0101,http://www.microsoft.com/MeeraPatel/,Delivery Van,Hanaford
+968,Anca Gogean,Corporate,Anca Gogean,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/AncaGogean/,Delivery Van,Arrowbear Lake
+969,Staffan Persson,Computer Store,Staffan Persson,(314) 555-0100,(314) 555-0101,http://www.microsoft.com/StaffanPersson/,Delivery Van,Phelps City
+970,Isidora Urias,Novelty Shop,Isidora Urias,(239) 555-0100,(239) 555-0101,http://www.microsoft.com/IsidoraUrias/,Delivery Van,Bratt
+971,Dhanishta Mokkapati,Corporate,Dhanishta Mokkapati,(907) 555-0100,(907) 555-0101,http://www.microsoft.com/DhanishtaMokkapati/,Delivery Van,Iliamna
+972,Lakshmi Benipal,Computer Store,Lakshmi Benipal,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/LakshmiBenipal/,Delivery Van,Lompoc
+973,Kumar Kamei,Novelty Shop,Kumar Kamei,(304) 555-0100,(304) 555-0101,http://www.microsoft.com/KumarKamei/,Delivery Van,Middleway
+974,Emil Roman,Computer Store,Emil Roman,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/EmilRoman/,Delivery Van,Kopperl
+975,Prabodh Nair,Novelty Shop,Prabodh Nair,(605) 555-0100,(605) 555-0101,http://www.microsoft.com/PrabodhNair/,Delivery Van,Tschetter Colony
+976,Alinne Matos,Computer Store,Alinne Matos,(229) 555-0100,(229) 555-0101,http://www.microsoft.com/AlinneMatos/,Delivery Van,Sea Island
+977,Mauno Laurila,Novelty Shop,Mauno Laurila,(216) 555-0100,(216) 555-0101,http://www.microsoft.com/MaunoLaurila/,Delivery Van,North Eaton
+978,Baalaamjali Devulapalli,Supermarket,Baalaamjali Devulapalli,(505) 555-0100,(505) 555-0101,http://www.microsoft.com/BaalaamjaliDevulapalli/,Delivery Van,Puerto de Luna
+979,Melani Ravlen,Corporate,Melani Ravlen,(405) 555-0100,(405) 555-0101,http://www.microsoft.com/MelaniRavlen/,Delivery Van,Cookietown
+980,Om Yadav,Novelty Shop,Om Yadav,(262) 555-0100,(262) 555-0101,http://www.microsoft.com/OmYadav/,Delivery Van,Lunds
+981,Mahmut ozbek,Gift Store,Mahmut ozbek,(339) 555-0100,(339) 555-0101,http://www.microsoft.com/Mahmutozbek/,Delivery Van,Bernardston
+982,Yves Belisle,Supermarket,Yves Belisle,(480) 555-0100,(480) 555-0101,http://www.microsoft.com/YvesBelisle/,Delivery Van,Walapai
+983,Sabine Alksne,Supermarket,Sabine Alksne,(479) 555-0100,(479) 555-0101,http://www.microsoft.com/SabineAlksne/,Delivery Van,Grannis
+984,Kamala Nishad,Corporate,Kamala Nishad,(201) 555-0100,(201) 555-0101,http://www.microsoft.com/KamalaNishad/,Delivery Van,Haddon Heights
+985,Roko Ilic,Corporate,Roko Ilic,(262) 555-0100,(262) 555-0101,http://www.microsoft.com/RokoIlic/,Delivery Van,Grantsburg
+986,Neil Farrelly,Novelty Shop,Neil Farrelly,(215) 555-0100,(215) 555-0101,http://www.microsoft.com/NeilFarrelly/,Delivery Van,Sabinsville
+987,Akhil Nadar,Supermarket,Akhil Nadar,(479) 555-0100,(479) 555-0101,http://www.microsoft.com/AkhilNadar/,Delivery Van,Schaal
+988,Maksims Krastins,Gift Store,Maksims Krastins,(304) 555-0100,(304) 555-0101,http://www.microsoft.com/MaksimsKrastins/,Delivery Van,Lorentz
+989,Milinka Zujovic,Gift Store,Milinka Zujovic,(316) 555-0100,(316) 555-0101,http://www.microsoft.com/MilinkaZujovic/,Delivery Van,Zurich
+990,Andris Saulitis,Corporate,Andris Saulitis,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/AndrisSaulitis/,Delivery Van,El Refugio
+991,Valter Viiding,Supermarket,Valter Viiding,(216) 555-0100,(216) 555-0101,http://www.microsoft.com/ValterViiding/,Delivery Van,Cuyahoga Heights
+992,Amarakumaar Gadiyaram,Novelty Shop,Amarakumaar Gadiyaram,(303) 555-0100,(303) 555-0101,http://www.microsoft.com/AmarakumaarGadiyaram/,Delivery Van,Vollmar
+993,Gasper Havzija,Gift Store,Gasper Havzija,(314) 555-0100,(314) 555-0101,http://www.microsoft.com/GasperHavzija/,Delivery Van,Shell Knob
+994,Libuse Kuchtova,Supermarket,Libuse Kuchtova,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/LibuseKuchtova/,Delivery Van,Van Alstyne
+995,Kumar Naicker,Novelty Shop,Kumar Naicker,(262) 555-0100,(262) 555-0101,http://www.microsoft.com/KumarNaicker/,Delivery Van,Oconto Falls
+996,Laszlo Gardenier,Gift Store,Laszlo Gardenier,(215) 555-0100,(215) 555-0101,http://www.microsoft.com/LaszloGardenier/,Delivery Van,Marion Hill
+997,Nada Ana Slosar,Supermarket,Nada Ana Slosar,(239) 555-0100,(239) 555-0101,http://www.microsoft.com/NadaAnaSlosar/,Delivery Van,Cloud Lake
+998,Mahavir Sonkar,Computer Store,Mahavir Sonkar,(505) 555-0100,(505) 555-0101,http://www.microsoft.com/MahavirSonkar/,Delivery Van,Pastura
+999,Kristi Part,Supermarket,Kristi Part,(702) 555-0100,(702) 555-0101,http://www.microsoft.com/KristiPart/,Delivery Van,Yerington
+1000,Krishnam Allu,Novelty Shop,Krishnam Allu,(405) 555-0100,(405) 555-0101,http://www.microsoft.com/KrishnamAllu/,Delivery Van,Catesby
+1001,Dinh Mai,Computer Store,Dinh Mai,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/,Delivery Van,Dorchester
+1002,Stefan Selezeanu,Computer Store,Stefan Selezeanu,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/,Delivery Van,Copake
+1003,Hue Ton,Supermarket,Hue Ton,(252) 555-0100,(252) 555-0101,http://www.microsoft.com/,Delivery Van,Holden Beach
+1004,Drishti Bose,Gift Store,Drishti Bose,(479) 555-0100,(479) 555-0101,http://www.microsoft.com/,Delivery Van,Wesson
+1005,Bhadram Kamasamudram,Novelty Shop,Bhadram Kamasamudram,(802) 555-0100,(802) 555-0101,http://www.microsoft.com/,Delivery Van,Wells
+1006,Taj Syme,Novelty Shop,Taj Syme,(216) 555-0100,(216) 555-0101,http://www.microsoft.com/,Delivery Van,Oakshade
+1007,Irma Berzina,Corporate,Irma Berzina,(458) 555-0100,(458) 555-0101,http://www.microsoft.com/,Delivery Van,Newberg
+1008,Vedrana Kovacevic,Novelty Shop,Vedrana Kovacevic,(479) 555-0100,(479) 555-0101,http://www.microsoft.com/,Delivery Van,Reader
+1009,Bhagavateeprasaad Malladi,Computer Store,Bhagavateeprasaad Malladi,(479) 555-0100,(479) 555-0101,http://www.microsoft.com/,Delivery Van,Greenfield
+1010,Serdar ozCelik,Supermarket,Serdar ozCelik,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/,Delivery Van,Dawn
+1011,Rajeev Sandhu,Gift Store,Rajeev Sandhu,(458) 555-0100,(458) 555-0101,http://www.microsoft.com/,Delivery Van,Wasco
+1012,Urve Kasesalu,Corporate,Urve Kasesalu,(319) 555-0100,(319) 555-0101,http://www.microsoft.com/,Delivery Van,Cherokee
+1013,Annette  Hetu,Computer Store,Annette  Hetu,(405) 555-0100,(405) 555-0101,http://www.microsoft.com/,Delivery Van,Hanna
+1014,Narendra Tickoo,Novelty Shop,Narendra Tickoo,(803) 555-0100,(803) 555-0101,http://www.microsoft.com/,Delivery Van,Dillon
+1015,Isa Hulsegge,Computer Store,Isa Hulsegge,(252) 555-0100,(252) 555-0101,http://www.microsoft.com/,Delivery Van,Saxapahaw
+1016,Aive Petrov,Supermarket,Aive Petrov,(316) 555-0100,(316) 555-0101,http://www.microsoft.com/,Delivery Van,Virgil
+1017,David Novacek ,Gift Store,David Novacek ,(423) 555-0100,(423) 555-0101,http://www.microsoft.com/,Delivery Van,Corryton
+1018,Nils Kaulins,Computer Store,Nils Kaulins,(406) 555-0100,(406) 555-0101,http://www.microsoft.com/,Delivery Van,Greycliff
+1019,Dhanishta Pullela,Novelty Shop,Dhanishta Pullela,(304) 555-0100,(304) 555-0101,http://www.microsoft.com/,Delivery Van,Gallipolis Ferry
+1020,Hai Banh,Computer Store,Hai Banh,(252) 555-0100,(252) 555-0101,http://www.microsoft.com/,Delivery Van,Claremont
+1021,Fabrice Cloutier,Supermarket,Fabrice Cloutier,(252) 555-0100,(252) 555-0101,http://www.microsoft.com/,Delivery Van,Staley
+1022,Nadir Seddigh,Computer Store,Nadir Seddigh,(907) 555-0100,(907) 555-0101,http://www.microsoft.com/,Delivery Van,Biorka
+1023,Farzana Habibi,Corporate,Farzana Habibi,(219) 555-0100,(219) 555-0101,http://www.microsoft.com/,Delivery Van,Brookville
+1024,Arka Chatterjee,Supermarket,Arka Chatterjee,(303) 555-0100,(303) 555-0101,http://www.microsoft.com/,Delivery Van,Byers
+1025,Tuulikki Linna,Gift Store,Tuulikki Linna,(217) 555-0100,(217) 555-0101,http://www.microsoft.com/,Delivery Van,Otterville
+1026,Daniella Cavalcante,Computer Store,Daniella Cavalcante,(405) 555-0100,(405) 555-0101,http://www.microsoft.com/,Delivery Van,Ravia
+1027,Serdar ozden,Corporate,Serdar ozden,(319) 555-0100,(319) 555-0101,http://www.microsoft.com/,Delivery Van,Richland
+1028,Emma Van Zant,Gift Store,Emma Van Zant,(303) 555-0100,(303) 555-0101,http://www.microsoft.com/,Delivery Van,Wray
+1029,Veronika Necesana,Novelty Shop,Veronika Necesana,(218) 555-0100,(218) 555-0101,http://www.microsoft.com/,Delivery Van,Dover
+1030,Chompoo Atitarn,Computer Store,Chompoo Atitarn,(603) 555-0100,(603) 555-0101,http://www.microsoft.com/,Delivery Van,Ashland
+1031,Dipti Shah,Gift Store,Dipti Shah,(216) 555-0100,(216) 555-0101,http://www.microsoft.com/,Delivery Van,Scioto Furnace
+1032,Som Mukherjee,Novelty Shop,Som Mukherjee,(385) 555-0100,(385) 555-0101,http://www.microsoft.com/,Delivery Van,Moroni
+1033,Cuneyt Arslan,Supermarket,Cuneyt Arslan,(405) 555-0100,(405) 555-0101,http://www.microsoft.com/,Delivery Van,Komalty
+1034,Aishwarya Dantuluri,Novelty Shop,Aishwarya Dantuluri,(209) 555-0100,(209) 555-0101,http://www.microsoft.com/,Delivery Van,Biggs
+1035,Manjunatha Karnik,Computer Store,Manjunatha Karnik,(405) 555-0100,(405) 555-0101,http://www.microsoft.com/,Delivery Van,Wright City
+1036,Erik Malk,Computer Store,Erik Malk,(406) 555-0100,(406) 555-0101,http://www.microsoft.com/,Delivery Van,Basin
+1037,David Jaramillo,Corporate,David Jaramillo,(803) 555-0100,(803) 555-0101,http://www.microsoft.com/,Delivery Van,Ridgeway
+1038,Damodara Trivedi,Gift Store,Damodara Trivedi,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/,Delivery Van,Tarzan
+1039,Bhaamini Palagummi,Gift Store,Bhaamini Palagummi,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/,Delivery Van,Lake Mohegan
+1040,Damodar Shenoy,Novelty Shop,Damodar Shenoy,(229) 555-0100,(229) 555-0101,http://www.microsoft.com/,Delivery Van,Scott
+1041,Tomo Vidovic,Supermarket,Tomo Vidovic,(207) 555-0100,(207) 555-0101,http://www.microsoft.com/,Delivery Van,Tremont
+1042,Nguyen Banh,Novelty Shop,Nguyen Banh,(239) 555-0100,(239) 555-0101,http://www.microsoft.com/,Delivery Van,Florahome
+1043,Raj Verma,Corporate,Raj Verma,(203) 555-0100,(203) 555-0101,http://www.microsoft.com/,Delivery Van,Colebrook
+1044,Hanita Nookala,Novelty Shop,Hanita Nookala,(225) 555-0100,(225) 555-0101,http://www.microsoft.com/,Delivery Van,Meaux
+1045,Matteo Cattaneo,Supermarket,Matteo Cattaneo,(229) 555-0100,(229) 555-0101,http://www.microsoft.com/,Delivery Van,Nicholson
+1046,Christian Couet,Computer Store,Christian Couet,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/,Delivery Van,Great Neck
+1047,Ivana Hadrabova,Computer Store,Ivana Hadrabova,(603) 555-0100,(603) 555-0101,http://www.microsoft.com/,Delivery Van,Lancaster
+1048,Abhra Ganguly,Gift Store,Abhra Ganguly,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/,Delivery Van,Walker Valley
+1049,Amet Shergill,Corporate,Amet Shergill,(303) 555-0100,(303) 555-0101,http://www.microsoft.com/,Delivery Van,Yampa
+1050,Amrita Ganguly,Supermarket,Amrita Ganguly,(787) 555-0100,(787) 555-0101,http://www.microsoft.com/,Delivery Van,Palmas del Mar
+1051,Sylvie Laramee,Gift Store,Sylvie Laramee,(787) 555-0100,(787) 555-0101,http://www.microsoft.com/,Delivery Van,Isabela
+1052,Ian Olofsson,Supermarket,Ian Olofsson,(339) 555-0100,(339) 555-0101,http://www.microsoft.com/,Delivery Van,Liberty Plain
+1053,Luis Saucedo,Computer Store,Luis Saucedo,(210) 555-0100,(210) 555-0101,http://www.microsoft.com/,Delivery Van,Linden
+1054,Emma Salpa,Supermarket,Emma Salpa,(205) 555-0100,(205) 555-0101,http://www.microsoft.com/,Delivery Van,Rogersville
+1055,Adriana Pena,Computer Store,Adriana Pena,(252) 555-0100,(252) 555-0101,http://www.microsoft.com/,Delivery Van,Roberta Mill
+1056,Kalyani Benjaree,Corporate,Kalyani Benjaree,(212) 555-0100,(212) 555-0101,http://www.microsoft.com/,Delivery Van,Bowmansville
+1057,Ganesh Majumdar,Computer Store,Ganesh Majumdar,(217) 555-0100,(217) 555-0101,http://www.microsoft.com/,Delivery Van,Orland Hills
+1058,Jaroslav Fisar,Gift Store,Jaroslav Fisar,(215) 555-0100,(215) 555-0101,http://www.microsoft.com/,Delivery Van,Sigel
+1059,Jibek Juniskyzy,Supermarket,Jibek Juniskyzy,(217) 555-0100,(217) 555-0101,http://www.microsoft.com/,Delivery Van,Ellisville
+1060,Anand Mudaliyar,Corporate,Anand Mudaliyar,(206) 555-0100,(206) 555-0101,http://www.microsoft.com/,Delivery Van,Midland
+1061,Agrita Abele,Computer Store,Agrita Abele,(206) 555-0100,(206) 555-0101,http://www.microsoft.com/,Delivery Van,Long Beach

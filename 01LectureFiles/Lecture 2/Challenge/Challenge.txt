@@ -1,0 +1,13 @@
+This is your time to test your knowledge:
+
+1. Import the data from the Excel files inside the current folder.
+Only include Excel files that start with HR_ and sheet HR.
+
+2. Combine the data into a table that includes the following fields:
+
+Department -> Take this from the File Name
+Name -> This should be first name and last name combined into one Name column
+Position -> Table headers from the individual files
+Salary -> Values from the individual files 
+
+3. Test your setup by changing the file name "ForLater_Legal.xlsx" to "HR_Legal.xlsx"
